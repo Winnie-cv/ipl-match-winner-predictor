@@ -1,0 +1,637 @@
+team1,team2,team1_win_rate,team2_win_rate,head_to_head,team1_venue_win_rate,team2_venue_win_rate,team1_recent_form,team2_recent_form,winner
+Kolkata Knight Riders,Royal Challengers Bangalore,0.5,0.5,0.5,0.5,0.5,0.5,0.5,Kolkata Knight Riders
+Chennai Super Kings,Kings XI Punjab,0.5,0.5,0.5,0.5,0.5,0.5,0.5,Chennai Super Kings
+Rajasthan Royals,Delhi Daredevils,0.5,0.5,0.5,0.5,0.5,0.5,0.5,Delhi Daredevils
+Mumbai Indians,Royal Challengers Bangalore,0.5,0.0,0.5,0.5,0.5,0.5,0.0,Royal Challengers Bangalore
+Deccan Chargers,Kolkata Knight Riders,0.5,1.0,0.5,0.5,0.5,0.5,1.0,Kolkata Knight Riders
+Kings XI Punjab,Rajasthan Royals,0.0,0.0,0.5,0.5,0.5,0.0,0.0,Rajasthan Royals
+Deccan Chargers,Delhi Daredevils,0.0,1.0,0.5,0.5,0.5,0.0,1.0,Delhi Daredevils
+Chennai Super Kings,Mumbai Indians,1.0,0.0,0.5,0.5,0.5,1.0,0.0,Chennai Super Kings
+Deccan Chargers,Rajasthan Royals,0.0,0.5,0.5,0.0,0.5,0.0,0.5,Rajasthan Royals
+Kings XI Punjab,Mumbai Indians,0.0,0.0,0.5,0.0,0.5,0.0,0.0,Kings XI Punjab
+Royal Challengers Bangalore,Rajasthan Royals,0.5,0.6666666666666666,0.5,0.0,0.5,0.5,0.6666666666666666,Rajasthan Royals
+Kolkata Knight Riders,Chennai Super Kings,1.0,1.0,0.5,0.5,1.0,1.0,1.0,Chennai Super Kings
+Mumbai Indians,Deccan Chargers,0.0,0.0,0.5,0.5,0.5,0.0,0.0,Deccan Chargers
+Delhi Daredevils,Kings XI Punjab,1.0,0.3333333333333333,0.5,0.5,0.5,1.0,0.3333333333333333,Kings XI Punjab
+Chennai Super Kings,Royal Challengers Bangalore,1.0,0.3333333333333333,0.5,0.5,0.0,1.0,0.3333333333333333,Chennai Super Kings
+Kolkata Knight Riders,Mumbai Indians,0.6666666666666666,0.0,0.5,1.0,0.5,0.6666666666666666,0.0,Mumbai Indians
+Delhi Daredevils,Royal Challengers Bangalore,0.6666666666666666,0.25,0.5,1.0,0.5,0.6666666666666666,0.25,Delhi Daredevils
+Deccan Chargers,Kings XI Punjab,0.25,0.5,0.5,0.0,0.5,0.25,0.5,Kings XI Punjab
+Rajasthan Royals,Kolkata Knight Riders,0.75,0.5,0.5,1.0,0.5,0.75,0.5,Rajasthan Royals
+Chennai Super Kings,Delhi Daredevils,1.0,0.75,0.5,1.0,0.5,1.0,0.75,Delhi Daredevils
+Kings XI Punjab,Kolkata Knight Riders,0.6,0.4,0.5,0.6666666666666666,0.5,0.6,0.4,Kings XI Punjab
+Royal Challengers Bangalore,Deccan Chargers,0.2,0.2,0.5,0.0,0.5,0.2,0.2,Royal Challengers Bangalore
+Mumbai Indians,Delhi Daredevils,0.2,0.8,0.5,0.0,0.5,0.2,0.8,Mumbai Indians
+Chennai Super Kings,Rajasthan Royals,0.8,0.8,0.5,0.5,1.0,0.8,0.8,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,0.3333333333333333,0.6666666666666666,0.5,0.25,0.5,0.4,0.8,Kings XI Punjab
+Chennai Super Kings,Deccan Chargers,0.6666666666666666,0.16666666666666666,0.5,0.6666666666666666,0.5,0.6,0.2,Deccan Chargers
+Rajasthan Royals,Mumbai Indians,0.8333333333333334,0.3333333333333333,0.5,0.5,0.5,1.0,0.4,Mumbai Indians
+Delhi Daredevils,Chennai Super Kings,0.6666666666666666,0.5714285714285714,1.0,1.0,0.5,0.6,0.4,Chennai Super Kings
+Kolkata Knight Riders,Royal Challengers Bangalore,0.3333333333333333,0.2857142857142857,1.0,0.5,0.5,0.2,0.2,Kolkata Knight Riders
+Deccan Chargers,Rajasthan Royals,0.2857142857142857,0.7142857142857143,0.0,0.5,1.0,0.4,0.8,Rajasthan Royals
+Chennai Super Kings,Kings XI Punjab,0.625,0.7142857142857143,1.0,0.5,0.5,0.4,1.0,Chennai Super Kings
+Kolkata Knight Riders,Deccan Chargers,0.42857142857142855,0.25,1.0,0.5,0.0,0.2,0.4,Kolkata Knight Riders
+Delhi Daredevils,Rajasthan Royals,0.5714285714285714,0.75,1.0,0.5,1.0,0.4,0.8,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,0.25,0.625,0.0,0.5,0.75,0.2,0.8,Kings XI Punjab
+Kolkata Knight Riders,Delhi Daredevils,0.5,0.5,0.5,0.6666666666666666,0.5,0.4,0.4,Kolkata Knight Riders
+Chennai Super Kings,Mumbai Indians,0.6666666666666666,0.42857142857142855,1.0,0.5,0.0,0.4,0.6,Mumbai Indians
+Delhi Daredevils,Deccan Chargers,0.4444444444444444,0.2222222222222222,1.0,0.6666666666666666,0.5,0.2,0.2,Delhi Daredevils
+Kolkata Knight Riders,Mumbai Indians,0.5555555555555556,0.5,0.0,0.5,0.5,0.6,0.8,Mumbai Indians
+Delhi Daredevils,Kings XI Punjab,0.5,0.6666666666666666,0.0,0.75,0.5,0.2,0.8,Kings XI Punjab
+Rajasthan Royals,Royal Challengers Bangalore,0.7777777777777778,0.2222222222222222,1.0,1.0,0.5,0.8,0.2,Rajasthan Royals
+Mumbai Indians,Deccan Chargers,0.5555555555555556,0.2,0.0,0.5,0.0,1.0,0.2,Mumbai Indians
+Kolkata Knight Riders,Chennai Super Kings,0.5,0.6,0.0,0.75,0.5,0.6,0.4,Chennai Super Kings
+Royal Challengers Bangalore,Delhi Daredevils,0.2,0.45454545454545453,0.0,0.2,0.5,0.2,0.2,Delhi Daredevils
+Kolkata Knight Riders,Rajasthan Royals,0.45454545454545453,0.8,0.0,0.6,0.5,0.6,0.8,Rajasthan Royals
+Kings XI Punjab,Mumbai Indians,0.7,0.6,1.0,0.5,0.6666666666666666,0.8,1.0,Kings XI Punjab
+Royal Challengers Bangalore,Chennai Super Kings,0.18181818181818182,0.6363636363636364,0.0,0.5,0.6,0.0,0.6,Royal Challengers Bangalore
+Deccan Chargers,Kings XI Punjab,0.18181818181818182,0.7272727272727273,0.0,0.5,0.8,0.2,0.8,Kings XI Punjab
+Mumbai Indians,Delhi Daredevils,0.5454545454545454,0.5,1.0,0.5,0.6,0.8,0.4,Delhi Daredevils
+Rajasthan Royals,Chennai Super Kings,0.8181818181818182,0.5833333333333334,1.0,0.5,0.5,0.8,0.6,Rajasthan Royals
+Deccan Chargers,Royal Challengers Bangalore,0.16666666666666666,0.25,0.0,0.0,0.5,0.0,0.2,Royal Challengers Bangalore
+Kings XI Punjab,Kolkata Knight Riders,0.75,0.4166666666666667,1.0,0.5,0.5,0.8,0.4,Kolkata Knight Riders
+Mumbai Indians,Rajasthan Royals,0.5,0.8333333333333334,1.0,0.5,1.0,0.6,1.0,Rajasthan Royals
+Deccan Chargers,Chennai Super Kings,0.15384615384615385,0.5384615384615384,1.0,0.0,0.5,0.0,0.4,Chennai Super Kings
+Royal Challengers Bangalore,Mumbai Indians,0.3076923076923077,0.46153846153846156,1.0,0.16666666666666666,0.5,0.4,0.4,Mumbai Indians
+Kings XI Punjab,Rajasthan Royals,0.6923076923076923,0.8461538461538461,0.0,0.8333333333333334,0.5,0.8,1.0,Kings XI Punjab
+Rajasthan Royals,Delhi Daredevils,0.7857142857142857,0.5384615384615384,0.5,0.5,0.5,0.8,0.6,Rajasthan Royals
+Kings XI Punjab,Chennai Super Kings,0.7142857142857143,0.5714285714285714,0.0,1.0,0.0,0.8,0.4,Chennai Super Kings
+Chennai Super Kings,Rajasthan Royals,0.6,0.8,0.0,0.5,0.0,0.6,0.8,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,0.5,0.5625,0.5,0.5,0.5,0.4,0.4,Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,0.2857142857142857,0.8125,0.0,0.5,0.5,0.4,0.8,Royal Challengers Bangalore
+Kings XI Punjab,Delhi Daredevils,0.6666666666666666,0.5,1.0,0.5,0.5,0.6,0.6,Delhi Daredevils
+Kolkata Knight Riders,Deccan Chargers,0.46153846153846156,0.14285714285714285,1.0,0.5,0.5,0.4,0.0,Deccan Chargers
+Chennai Super Kings,Royal Challengers Bangalore,0.5294117647058824,0.3333333333333333,0.5,0.5,0.5,0.4,0.6,Chennai Super Kings
+Kings XI Punjab,Kolkata Knight Riders,0.625,0.42857142857142855,0.5,0.5,0.5,0.4,0.2,Kolkata Knight Riders
+Deccan Chargers,Royal Challengers Bangalore,0.2,0.3125,0.0,1.0,1.0,0.2,0.6,Deccan Chargers
+Delhi Daredevils,Chennai Super Kings,0.5333333333333333,0.5555555555555556,0.5,0.5,0.5,0.6,0.6,Delhi Daredevils
+Rajasthan Royals,Kolkata Knight Riders,0.7647058823529411,0.4666666666666667,1.0,0.0,0.0,0.6,0.4,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,0.29411764705882354,0.5882352941176471,0.0,0.5,0.0,0.4,0.2,Kings XI Punjab
+Deccan Chargers,Mumbai Indians,0.25,0.5333333333333333,0.5,0.5,0.5,0.4,0.4,Deccan Chargers
+Royal Challengers Bangalore,Delhi Daredevils,0.2777777777777778,0.5625,0.0,0.0,0.5,0.2,0.8,Delhi Daredevils
+Kings XI Punjab,Rajasthan Royals,0.6111111111111112,0.7777777777777778,0.5,0.0,0.5,0.4,0.6,Kings XI Punjab
+Chennai Super Kings,Deccan Chargers,0.5263157894736842,0.29411764705882354,0.5,0.0,1.0,0.4,0.6,Deccan Chargers
+Mumbai Indians,Kolkata Knight Riders,0.5,0.4375,1.0,0.5,0.5,0.4,0.4,Mumbai Indians
+Delhi Daredevils,Rajasthan Royals,0.5882352941176471,0.7368421052631579,0.3333333333333333,0.5,0.5,0.8,0.6,Rajasthan Royals
+Kolkata Knight Riders,Royal Challengers Bangalore,0.4117647058823529,0.2631578947368421,1.0,1.0,0.0,0.4,0.2,Royal Challengers Bangalore
+Kings XI Punjab,Mumbai Indians,0.631578947368421,0.5294117647058824,1.0,0.5,0.0,0.4,0.6,Kings XI Punjab
+Deccan Chargers,Delhi Daredevils,0.3333333333333333,0.5555555555555556,0.0,0.5,0.0,0.8,0.6,Delhi Daredevils
+Chennai Super Kings,Rajasthan Royals,0.5,0.75,0.0,0.5,1.0,0.2,0.6,Chennai Super Kings
+Mumbai Indians,Kolkata Knight Riders,0.5,0.3888888888888889,1.0,0.5,0.5,0.6,0.2,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,0.3,0.65,0.0,0.5,0.6666666666666666,0.2,0.6,Royal Challengers Bangalore
+Deccan Chargers,Rajasthan Royals,0.3157894736842105,0.7142857142857143,0.0,0.5,0.5,0.8,0.4,Rajasthan Royals
+Chennai Super Kings,Delhi Daredevils,0.5238095238095238,0.5789473684210527,0.3333333333333333,0.5,0.5,0.4,0.8,Chennai Super Kings
+Kolkata Knight Riders,Kings XI Punjab,0.3684210526315789,0.6190476190476191,0.6666666666666666,0.0,0.5,0.2,0.6,Kings XI Punjab
+Mumbai Indians,Royal Challengers Bangalore,0.5263157894736842,0.3333333333333333,0.5,0.5,0.5,0.6,0.4,Royal Challengers Bangalore
+Chennai Super Kings,Deccan Chargers,0.5454545454545454,0.3,0.3333333333333333,0.5,0.5,0.6,0.6,Chennai Super Kings
+Rajasthan Royals,Kings XI Punjab,0.7272727272727273,0.6363636363636364,0.3333333333333333,0.5,0.5,0.6,0.8,Rajasthan Royals
+Kolkata Knight Riders,Delhi Daredevils,0.35,0.55,1.0,0.5,1.0,0.0,0.6,Delhi Daredevils
+Deccan Chargers,Mumbai Indians,0.2857142857142857,0.5,0.6666666666666666,0.0,0.5,0.4,0.4,Deccan Chargers
+Royal Challengers Bangalore,Rajasthan Royals,0.36363636363636365,0.7391304347826086,0.3333333333333333,0.5,0.5,0.6,0.6,Rajasthan Royals
+Chennai Super Kings,Kings XI Punjab,0.5652173913043478,0.6086956521739131,1.0,1.0,0.5,0.6,0.6,Chennai Super Kings
+Mumbai Indians,Delhi Daredevils,0.47619047619047616,0.5714285714285714,0.5,1.0,0.5,0.4,0.6,Delhi Daredevils
+Deccan Chargers,Kings XI Punjab,0.3181818181818182,0.5833333333333334,0.0,0.5,0.5,0.4,0.4,Kings XI Punjab
+Rajasthan Royals,Chennai Super Kings,0.75,0.5833333333333334,0.75,0.5,0.5,0.8,0.8,Chennai Super Kings
+Mumbai Indians,Royal Challengers Bangalore,0.45454545454545453,0.34782608695652173,0.3333333333333333,1.0,0.0,0.2,0.6,Mumbai Indians
+Kolkata Knight Riders,Delhi Daredevils,0.3333333333333333,0.5909090909090909,0.5,0.5,0.0,0.0,0.6,Delhi Daredevils
+Deccan Chargers,Rajasthan Royals,0.30434782608695654,0.72,0.0,0.0,0.0,0.2,0.6,Deccan Chargers
+Kolkata Knight Riders,Royal Challengers Bangalore,0.3181818181818182,0.3333333333333333,0.6666666666666666,0.5,0.0,0.0,0.6,Royal Challengers Bangalore
+Kings XI Punjab,Mumbai Indians,0.6,0.4782608695652174,1.0,0.0,0.0,0.4,0.4,Mumbai Indians
+Delhi Daredevils,Deccan Chargers,0.6086956521739131,0.3333333333333333,1.0,1.0,1.0,0.8,0.4,Delhi Daredevils
+Chennai Super Kings,Royal Challengers Bangalore,0.6,0.36,0.6666666666666666,0.0,0.6666666666666666,1.0,0.6,Royal Challengers Bangalore
+Rajasthan Royals,Mumbai Indians,0.6923076923076923,0.5,0.5,1.0,0.0,0.6,0.4,Rajasthan Royals
+Delhi Daredevils,Kings XI Punjab,0.625,0.5769230769230769,0.3333333333333333,0.5,0.5,0.8,0.4,Kings XI Punjab
+Mumbai Indians,Chennai Super Kings,0.48,0.5769230769230769,0.6666666666666666,1.0,1.0,0.4,0.8,Chennai Super Kings
+Kolkata Knight Riders,Deccan Chargers,0.30434782608695654,0.32,0.6666666666666666,0.0,0.5,0.0,0.4,Deccan Chargers
+Kings XI Punjab,Deccan Chargers,0.5925925925925926,0.34615384615384615,1.0,0.5,1.0,0.4,0.6,Kings XI Punjab
+Delhi Daredevils,Rajasthan Royals,0.6,0.7037037037037037,0.25,0.0,0.5,0.8,0.6,Delhi Daredevils
+Chennai Super Kings,Kolkata Knight Riders,0.5925925925925926,0.2916666666666667,1.0,1.0,0.0,0.8,0.0,Kolkata Knight Riders
+Delhi Daredevils,Royal Challengers Bangalore,0.6153846153846154,0.38461538461538464,1.0,0.5,1.0,0.8,0.6,Royal Challengers Bangalore
+Rajasthan Royals,Kolkata Knight Riders,0.6785714285714286,0.32,1.0,1.0,0.3333333333333333,0.4,0.2,Kolkata Knight Riders
+Chennai Super Kings,Kings XI Punjab,0.5714285714285714,0.6071428571428571,1.0,0.0,0.4,0.6,0.6,Chennai Super Kings
+Mumbai Indians,Delhi Daredevils,0.46153846153846156,0.5925925925925926,0.3333333333333333,0.5,0.5,0.4,0.6,Delhi Daredevils
+Royal Challengers Bangalore,Deccan Chargers,0.4074074074074074,0.3333333333333333,0.6666666666666666,0.5,0.5,0.6,0.4,Royal Challengers Bangalore
+Delhi Daredevils,Deccan Chargers,0.6071428571428571,0.32142857142857145,1.0,0.6666666666666666,0.3333333333333333,0.6,0.4,Deccan Chargers
+Chennai Super Kings,Royal Challengers Bangalore,0.5862068965517241,0.42857142857142855,0.5,1.0,1.0,0.6,0.8,Royal Challengers Bangalore
+Deccan Chargers,Royal Challengers Bangalore,0.3448275862068966,0.4482758620689655,0.25,0.5,1.0,0.4,1.0,Deccan Chargers
+Kolkata Knight Riders,Deccan Chargers,0.34615384615384615,0.36666666666666664,0.5,0.5,1.0,0.4,0.6,Kolkata Knight Riders
+Mumbai Indians,Rajasthan Royals,0.4444444444444444,0.6551724137931034,0.3333333333333333,0.5,0.5,0.4,0.2,Mumbai Indians
+Kings XI Punjab,Delhi Daredevils,0.5862068965517241,0.5862068965517241,0.75,0.8571428571428571,0.0,0.6,0.4,Delhi Daredevils
+Royal Challengers Bangalore,Kolkata Knight Riders,0.43333333333333335,0.37037037037037035,0.5,0.0,0.5714285714285714,0.8,0.6,Kolkata Knight Riders
+Deccan Chargers,Chennai Super Kings,0.3548387096774194,0.5666666666666667,0.5,1.0,0.42857142857142855,0.4,0.4,Deccan Chargers
+Rajasthan Royals,Delhi Daredevils,0.6333333333333333,0.6,0.6,0.5,0.5,0.2,0.6,Delhi Daredevils
+Kings XI Punjab,Royal Challengers Bangalore,0.5666666666666667,0.41935483870967744,0.75,1.0,0.14285714285714285,0.4,0.6,Royal Challengers Bangalore
+Chennai Super Kings,Kolkata Knight Riders,0.5483870967741935,0.39285714285714285,0.6666666666666666,1.0,0.625,0.4,0.8,Chennai Super Kings
+Mumbai Indians,Delhi Daredevils,0.4642857142857143,0.6129032258064516,0.25,0.0,0.6666666666666666,0.4,0.6,Mumbai Indians
+Rajasthan Royals,Royal Challengers Bangalore,0.6129032258064516,0.4375,0.75,1.0,0.25,0.2,0.6,Royal Challengers Bangalore
+Delhi Daredevils,Chennai Super Kings,0.59375,0.5625,0.5,0.5714285714285714,1.0,0.6,0.4,Chennai Super Kings
+Deccan Chargers,Kings XI Punjab,0.375,0.5483870967741935,0.0,0.5,0.5,0.6,0.4,Deccan Chargers
+Rajasthan Royals,Kolkata Knight Riders,0.59375,0.3793103448275862,0.75,0.0,0.5,0.0,0.8,Rajasthan Royals
+Mumbai Indians,Royal Challengers Bangalore,0.4827586206896552,0.45454545454545453,0.5,1.0,0.5,0.4,0.6,Royal Challengers Bangalore
+Deccan Chargers,Delhi Daredevils,0.3939393939393939,0.5757575757575758,0.2,1.0,0.5,0.8,0.4,Deccan Chargers
+Kings XI Punjab,Chennai Super Kings,0.53125,0.5757575757575758,0.0,0.0,0.375,0.2,0.6,Kings XI Punjab
+Kolkata Knight Riders,Mumbai Indians,0.36666666666666664,0.4666666666666667,0.0,0.5,0.5,0.6,0.4,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,0.47058823529411764,0.5588235294117647,0.6,0.3333333333333333,1.0,0.6,0.4,Royal Challengers Bangalore
+Rajasthan Royals,Kings XI Punjab,0.6060606060606061,0.5454545454545454,0.5,0.0,0.75,0.2,0.2,Rajasthan Royals
+Chennai Super Kings,Mumbai Indians,0.5428571428571428,0.4838709677419355,0.5,0.5,0.6666666666666666,0.4,0.6,Mumbai Indians
+Delhi Daredevils,Royal Challengers Bangalore,0.5588235294117647,0.4857142857142857,0.75,1.0,0.4,0.4,0.8,Delhi Daredevils
+Deccan Chargers,Rajasthan Royals,0.4117647058823529,0.6176470588235294,0.25,0.5,0.5,0.8,0.4,Rajasthan Royals
+Kolkata Knight Riders,Kings XI Punjab,0.3548387096774194,0.5294117647058824,0.5,0.0,0.6666666666666666,0.4,0.2,Kolkata Knight Riders
+Rajasthan Royals,Chennai Super Kings,0.6285714285714286,0.5277777777777778,0.6,0.6666666666666666,0.5,0.6,0.4,Rajasthan Royals
+Mumbai Indians,Deccan Chargers,0.5,0.4,0.25,0.6666666666666666,0.5,0.8,0.6,Mumbai Indians
+Delhi Daredevils,Kolkata Knight Riders,0.5714285714285714,0.375,0.6666666666666666,0.5,0.5,0.4,0.4,Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,0.5142857142857142,0.5151515151515151,0.75,0.5,0.75,0.2,0.8,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,0.4722222222222222,0.5135135135135135,0.6666666666666666,1.0,0.3333333333333333,0.8,0.2,Chennai Super Kings
+Delhi Daredevils,Rajasthan Royals,0.5833333333333334,0.6388888888888888,0.5,0.5555555555555556,0.0,0.4,0.8,Delhi Daredevils
+Kolkata Knight Riders,Deccan Chargers,0.36363636363636365,0.3888888888888889,0.6,0.5555555555555556,0.0,0.2,0.6,Kolkata Knight Riders
+Kings XI Punjab,Royal Challengers Bangalore,0.5,0.4594594594594595,0.6,0.6,0.0,0.2,0.6,Royal Challengers Bangalore
+Chennai Super Kings,Rajasthan Royals,0.5263157894736842,0.6216216216216216,0.3333333333333333,0.4,1.0,0.2,0.8,Chennai Super Kings
+Mumbai Indians,Deccan Chargers,0.5294117647058824,0.3783783783783784,0.4,0.8,0.5,0.8,0.4,Mumbai Indians
+Kolkata Knight Riders,Kings XI Punjab,0.38235294117647056,0.4864864864864865,0.6,0.6,0.0,0.4,0.2,Kings XI Punjab
+Delhi Daredevils,Royal Challengers Bangalore,0.5945945945945946,0.47368421052631576,0.8,0.6,0.0,0.6,0.6,Delhi Daredevils
+Rajasthan Royals,Deccan Chargers,0.6052631578947368,0.3684210526315789,0.8,0.5,0.5,0.6,0.2,Rajasthan Royals
+Chennai Super Kings,Mumbai Indians,0.5384615384615384,0.5428571428571428,0.4,0.45454545454545453,0.0,0.4,1.0,Chennai Super Kings
+Kings XI Punjab,Rajasthan Royals,0.5,0.6153846153846154,0.4,0.0,1.0,0.2,0.6,Rajasthan Royals
+Kolkata Knight Riders,Delhi Daredevils,0.37142857142857144,0.6052631578947368,0.25,0.5454545454545454,0.0,0.4,0.8,Kolkata Knight Riders
+Royal Challengers Bangalore,Deccan Chargers,0.46153846153846156,0.358974358974359,0.6,0.36363636363636365,0.0,0.4,0.0,Deccan Chargers
+Mumbai Indians,Kings XI Punjab,0.5277777777777778,0.48717948717948717,0.4,0.0,0.5454545454545454,0.8,0.2,Kings XI Punjab
+Chennai Super Kings,Deccan Chargers,0.55,0.375,0.4,0.5,0.0,0.6,0.2,Deccan Chargers
+Kolkata Knight Riders,Royal Challengers Bangalore,0.3888888888888889,0.45,0.6,1.0,0.3333333333333333,0.6,0.2,Royal Challengers Bangalore
+Delhi Daredevils,Kings XI Punjab,0.5897435897435898,0.5,0.4,0.6363636363636364,1.0,0.8,0.4,Kings XI Punjab
+Mumbai Indians,Rajasthan Royals,0.5135135135135135,0.625,0.5,0.0,1.0,0.6,0.6,Mumbai Indians
+Deccan Chargers,Royal Challengers Bangalore,0.3902439024390244,0.4634146341463415,0.5,0.5,0.5,0.4,0.4,Deccan Chargers
+Mumbai Indians,Delhi Daredevils,0.5263157894736842,0.575,0.4,0.8333333333333334,0.5,0.6,0.6,Mumbai Indians
+Kolkata Knight Riders,Chennai Super Kings,0.3783783783783784,0.5365853658536586,0.25,0.0,0.5,0.4,0.6,Chennai Super Kings
+Rajasthan Royals,Royal Challengers Bangalore,0.6097560975609756,0.4523809523809524,0.6,0.8888888888888888,0.0,0.4,0.4,Royal Challengers Bangalore
+Chennai Super Kings,Delhi Daredevils,0.5476190476190477,0.5609756097560976,0.6,0.5384615384615384,1.0,0.8,0.4,Delhi Daredevils
+Kings XI Punjab,Deccan Chargers,0.5121951219512195,0.40476190476190477,0.8,0.5,0.5,0.6,0.6,Deccan Chargers
+Mumbai Indians,Royal Challengers Bangalore,0.5384615384615384,0.46511627906976744,0.4,1.0,0.38461538461538464,0.6,0.4,Mumbai Indians
+Rajasthan Royals,Kolkata Knight Riders,0.5952380952380952,0.3684210526315789,0.8,1.0,0.5833333333333334,0.4,0.4,Kolkata Knight Riders
+Kings XI Punjab,Chennai Super Kings,0.5,0.5348837209302325,0.16666666666666666,0.0,0.5,0.6,0.6,Chennai Super Kings
+Deccan Chargers,Delhi Daredevils,0.4186046511627907,0.5714285714285714,0.3333333333333333,0.0,0.5833333333333334,0.8,0.4,Deccan Chargers
+Mumbai Indians,Kolkata Knight Riders,0.55,0.38461538461538464,1.0,1.0,0.6153846153846154,0.6,0.4,Kolkata Knight Riders
+Mumbai Indians,Royal Challengers Bangalore,0.5365853658536586,0.45454545454545453,0.5,0.75,0.5,0.6,0.4,Mumbai Indians
+Chennai Super Kings,Deccan Chargers,0.5454545454545454,0.4318181818181818,0.3333333333333333,0.0,0.3333333333333333,0.6,1.0,Chennai Super Kings
+Deccan Chargers,Royal Challengers Bangalore,0.4222222222222222,0.4444444444444444,0.5714285714285714,0.25,0.0,0.8,0.4,Royal Challengers Bangalore
+Chennai Super Kings,Mumbai Indians,0.5555555555555556,0.5476190476190477,0.5,0.5,0.8,0.6,0.8,Chennai Super Kings
+Chennai Super Kings,Kolkata Knight Riders,0.5652173913043478,0.4,0.8,0.5,0.0,0.8,0.6,Chennai Super Kings
+Deccan Chargers,Rajasthan Royals,0.41304347826086957,0.5813953488372093,0.16666666666666666,0.0,1.0,0.6,0.4,Rajasthan Royals
+Kochi Tuskers Kerala,Royal Challengers Bangalore,0.5,0.45652173913043476,0.5,0.5,0.5,0.5,0.4,Royal Challengers Bangalore
+Delhi Daredevils,Mumbai Indians,0.5581395348837209,0.5348837209302325,0.5,0.5384615384615384,0.5,0.2,0.6,Mumbai Indians
+Kings XI Punjab,Pune Warriors,0.4883720930232558,0.5,0.5,0.5,0.5,0.4,0.5,Pune Warriors
+Kolkata Knight Riders,Deccan Chargers,0.3902439024390244,0.40425531914893614,0.6666666666666666,0.6428571428571429,0.0,0.4,0.4,Kolkata Knight Riders
+Delhi Daredevils,Rajasthan Royals,0.5454545454545454,0.5909090909090909,0.5714285714285714,0.0,0.8,0.2,0.4,Rajasthan Royals
+Royal Challengers Bangalore,Mumbai Indians,0.46808510638297873,0.5454545454545454,0.42857142857142855,0.35714285714285715,1.0,0.6,0.6,Mumbai Indians
+Chennai Super Kings,Kings XI Punjab,0.574468085106383,0.4772727272727273,0.8571428571428571,1.0,0.5833333333333334,0.8,0.4,Kings XI Punjab
+Kochi Tuskers Kerala,Pune Warriors,0.0,1.0,0.5,0.5,1.0,0.0,1.0,Pune Warriors
+Deccan Chargers,Royal Challengers Bangalore,0.3958333333333333,0.4583333333333333,0.5,0.0,1.0,0.2,0.4,Deccan Chargers
+Rajasthan Royals,Kolkata Knight Riders,0.6,0.40476190476190477,0.6666666666666666,0.8181818181818182,0.0,0.4,0.6,Kolkata Knight Riders
+Mumbai Indians,Kochi Tuskers Kerala,0.5555555555555556,0.0,0.5,0.5,0.5,0.6,0.0,Kochi Tuskers Kerala
+Chennai Super Kings,Royal Challengers Bangalore,0.5625,0.4489795918367347,0.42857142857142855,0.5333333333333333,0.5,0.8,0.4,Chennai Super Kings
+Deccan Chargers,Kings XI Punjab,0.40816326530612246,0.4888888888888889,0.3333333333333333,0.1111111111111111,1.0,0.2,0.4,Kings XI Punjab
+Pune Warriors,Delhi Daredevils,1.0,0.5333333333333333,0.5,1.0,0.0,1.0,0.2,Delhi Daredevils
+Rajasthan Royals,Kolkata Knight Riders,0.5869565217391305,0.4186046511627907,0.5714285714285714,0.5,0.6666666666666666,0.4,0.8,Kolkata Knight Riders
+Chennai Super Kings,Kochi Tuskers Kerala,0.5714285714285714,0.3333333333333333,0.5,0.5,0.0,0.8,0.3333333333333333,Kochi Tuskers Kerala
+Deccan Chargers,Delhi Daredevils,0.4,0.5434782608695652,0.42857142857142855,0.5,0.5,0.2,0.4,Deccan Chargers
+Pune Warriors,Mumbai Indians,0.6666666666666666,0.5434782608695652,0.5,0.5,0.4,0.6666666666666666,0.6,Mumbai Indians
+Kochi Tuskers Kerala,Kolkata Knight Riders,0.5,0.4318181818181818,0.5,0.5,0.6875,0.5,0.8,Kochi Tuskers Kerala
+Kings XI Punjab,Rajasthan Royals,0.5,0.574468085106383,0.3333333333333333,0.6153846153846154,0.5,0.4,0.4,Kings XI Punjab
+Mumbai Indians,Chennai Super Kings,0.5531914893617021,0.56,0.42857142857142855,0.5,0.5,0.6,0.6,Mumbai Indians
+Kolkata Knight Riders,Royal Challengers Bangalore,0.4222222222222222,0.44,0.5,0.6470588235294118,0.0,0.6,0.4,Royal Challengers Bangalore
+Delhi Daredevils,Kings XI Punjab,0.5319148936170213,0.5106382978723404,0.3333333333333333,0.4666666666666667,1.0,0.2,0.6,Delhi Daredevils
+Mumbai Indians,Deccan Chargers,0.5625,0.4117647058823529,0.5,1.0,0.1,0.8,0.4,Mumbai Indians
+Kochi Tuskers Kerala,Rajasthan Royals,0.6,0.5625,0.5,0.5,0.75,0.6,0.4,Rajasthan Royals
+Chennai Super Kings,Pune Warriors,0.5490196078431373,0.5,0.5,0.5625,0.5,0.4,0.5,Chennai Super Kings
+Delhi Daredevils,Royal Challengers Bangalore,0.5416666666666666,0.45098039215686275,0.8333333333333334,0.5,0.0,0.4,0.4,Royal Challengers Bangalore
+Pune Warriors,Chennai Super Kings,0.4,0.5576923076923077,0.0,0.6666666666666666,0.6666666666666666,0.4,0.4,Chennai Super Kings
+Deccan Chargers,Kochi Tuskers Kerala,0.40384615384615385,0.5,0.5,0.5,0.5,0.4,0.6,Deccan Chargers
+Kolkata Knight Riders,Delhi Daredevils,0.41304347826086957,0.5306122448979592,0.4,0.0,0.47058823529411764,0.6,0.4,Kolkata Knight Riders
+Mumbai Indians,Rajasthan Royals,0.5714285714285714,0.5714285714285714,0.6,0.5,0.7692307692307693,0.8,0.4,Rajasthan Royals
+Royal Challengers Bangalore,Pune Warriors,0.46153846153846156,0.3333333333333333,0.5,0.3333333333333333,0.5,0.4,0.2,Royal Challengers Bangalore
+Delhi Daredevils,Kochi Tuskers Kerala,0.52,0.42857142857142855,0.5,0.5,0.3333333333333333,0.4,0.6,Delhi Daredevils
+Kings XI Punjab,Kolkata Knight Riders,0.5,0.425531914893617,0.5,0.5,0.6111111111111112,0.6,0.6,Kolkata Knight Riders
+Pune Warriors,Rajasthan Royals,0.2857142857142857,0.58,0.5,0.5,0.7857142857142857,0.0,0.4,Rajasthan Royals
+Chennai Super Kings,Deccan Chargers,0.5660377358490566,0.41509433962264153,0.42857142857142855,0.5882352941176471,1.0,0.6,0.6,Chennai Super Kings
+Mumbai Indians,Kings XI Punjab,0.56,0.4897959183673469,0.3333333333333333,0.5714285714285714,0.5,0.6,0.6,Mumbai Indians
+Delhi Daredevils,Kochi Tuskers Kerala,0.5294117647058824,0.375,1.0,0.4444444444444444,0.5,0.4,0.4,Kochi Tuskers Kerala
+Kolkata Knight Riders,Deccan Chargers,0.4375,0.4074074074074074,0.7142857142857143,1.0,0.09090909090909091,0.6,0.4,Kolkata Knight Riders
+Rajasthan Royals,Chennai Super Kings,0.5882352941176471,0.5740740740740741,0.5714285714285714,0.5,0.6111111111111112,0.6,0.6,Chennai Super Kings
+Mumbai Indians,Pune Warriors,0.5686274509803921,0.25,1.0,0.6666666666666666,0.5,0.8,0.0,Mumbai Indians
+Kochi Tuskers Kerala,Kolkata Knight Riders,0.4444444444444444,0.4489795918367347,1.0,0.25,0.5,0.4,0.6,Kochi Tuskers Kerala
+Deccan Chargers,Delhi Daredevils,0.4,0.5192307692307693,0.5,0.08333333333333333,1.0,0.4,0.4,Delhi Daredevils
+Royal Challengers Bangalore,Kings XI Punjab,0.4716981132075472,0.48,0.5,0.375,0.5,0.6,0.4,Royal Challengers Bangalore
+Chennai Super Kings,Kolkata Knight Riders,0.5818181818181818,0.44,0.8333333333333334,1.0,0.631578947368421,0.8,0.6,Kolkata Knight Riders
+Mumbai Indians,Delhi Daredevils,0.5769230769230769,0.5283018867924528,0.5714285714285714,0.625,0.0,0.8,0.4,Mumbai Indians
+Kochi Tuskers Kerala,Royal Challengers Bangalore,0.5,0.48148148148148145,0.0,0.5,0.4117647058823529,0.4,0.8,Royal Challengers Bangalore
+Kings XI Punjab,Pune Warriors,0.47058823529411764,0.2222222222222222,0.0,0.6428571428571429,0.5,0.2,0.0,Pune Warriors
+Chennai Super Kings,Rajasthan Royals,0.5714285714285714,0.5769230769230769,0.5,0.0,0.8,0.8,0.6,Chennai Super Kings
+Deccan Chargers,Pune Warriors,0.39285714285714285,0.3,0.5,0.07692307692307693,0.5,0.2,0.2,Pune Warriors
+Kings XI Punjab,Mumbai Indians,0.46153846153846156,0.5849056603773585,0.5714285714285714,0.6,0.0,0.0,0.8,Kings XI Punjab
+Rajasthan Royals,Royal Challengers Bangalore,0.5660377358490566,0.4909090909090909,0.5,0.75,0.5,0.6,1.0,Royal Challengers Bangalore
+Chennai Super Kings,Delhi Daredevils,0.5789473684210527,0.5185185185185185,0.5,0.631578947368421,1.0,0.8,0.4,Chennai Super Kings
+Kochi Tuskers Kerala,Kings XI Punjab,0.45454545454545453,0.4716981132075472,0.5,0.5,0.5,0.4,0.2,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,0.45098039215686275,0.5,0.42857142857142855,0.5,0.4444444444444444,0.8,1.0,Royal Challengers Bangalore
+Deccan Chargers,Mumbai Indians,0.38596491228070173,0.5740740740740741,0.42857142857142855,0.5,0.6666666666666666,0.2,0.6,Deccan Chargers
+Kings XI Punjab,Delhi Daredevils,0.48148148148148145,0.509090909090909,0.5714285714285714,0.0,0.5,0.4,0.4,Kings XI Punjab
+Rajasthan Royals,Kochi Tuskers Kerala,0.5555555555555556,0.4166666666666667,1.0,0.5,0.0,0.4,0.4,Kochi Tuskers Kerala
+Pune Warriors,Deccan Chargers,0.36363636363636365,0.39655172413793105,1.0,0.4,0.2,0.4,0.2,Deccan Chargers
+Kings XI Punjab,Royal Challengers Bangalore,0.4909090909090909,0.5087719298245614,0.42857142857142855,0.3333333333333333,0.5,0.6,1.0,Kings XI Punjab
+Chennai Super Kings,Kochi Tuskers Kerala,0.5862068965517241,0.46153846153846156,0.0,0.65,0.5,0.8,0.6,Chennai Super Kings
+Pune Warriors,Kolkata Knight Riders,0.3333333333333333,0.4423076923076923,0.5,0.3333333333333333,1.0,0.4,0.6,Kolkata Knight Riders
+Mumbai Indians,Rajasthan Royals,0.5636363636363636,0.5454545454545454,0.5,0.6,1.0,0.6,0.2,Rajasthan Royals
+Deccan Chargers,Kings XI Punjab,0.4067796610169492,0.5,0.2857142857142857,1.0,0.5,0.4,0.8,Deccan Chargers
+Delhi Daredevils,Pune Warriors,0.5,0.3076923076923077,1.0,0.42105263157894735,0.5,0.2,0.4,
+Chennai Super Kings,Royal Challengers Bangalore,0.5932203389830508,0.5,0.5,0.5,0.47368421052631576,0.8,0.8,Royal Challengers Bangalore
+Kolkata Knight Riders,Mumbai Indians,0.4528301886792453,0.5535714285714286,0.16666666666666666,0.65,0.5,0.6,0.4,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,0.5084745762711864,0.5833333333333334,0.5555555555555556,1.0,0.3333333333333333,0.8,0.6,Chennai Super Kings
+Kolkata Knight Riders,Mumbai Indians,0.4444444444444444,0.5614035087719298,0.14285714285714285,0.0,0.5454545454545454,0.4,0.4,Mumbai Indians
+Royal Challengers Bangalore,Mumbai Indians,0.5,0.5689655172413793,0.375,0.3333333333333333,0.0,0.6,0.4,Royal Challengers Bangalore
+Chennai Super Kings,Royal Challengers Bangalore,0.5901639344262295,0.5081967213114754,0.5,0.6666666666666666,0.5,0.8,0.6,Chennai Super Kings
+Chennai Super Kings,Mumbai Indians,0.5967741935483871,0.559322033898305,0.5,0.6818181818181818,0.0,0.8,0.4,Mumbai Indians
+Kolkata Knight Riders,Delhi Daredevils,0.43636363636363634,0.49122807017543857,0.5,0.6190476190476191,0.0,0.4,0.2,Delhi Daredevils
+Pune Warriors,Mumbai Indians,0.2857142857142857,0.5666666666666667,0.0,0.0,0.5833333333333334,0.4,0.6,Pune Warriors
+Rajasthan Royals,Kings XI Punjab,0.5535714285714286,0.49122807017543857,0.5714285714285714,0.7058823529411765,0.0,0.2,0.8,Rajasthan Royals
+Royal Challengers Bangalore,Delhi Daredevils,0.5,0.5,0.2857142857142857,0.5,1.0,0.4,0.2,Royal Challengers Bangalore
+Chennai Super Kings,Deccan Chargers,0.5873015873015873,0.4166666666666667,0.5,0.5,0.5,0.6,0.6,Chennai Super Kings
+Rajasthan Royals,Kolkata Knight Riders,0.5614035087719298,0.42857142857142855,0.5,0.7222222222222222,0.5,0.4,0.2,Rajasthan Royals
+Pune Warriors,Kings XI Punjab,0.3333333333333333,0.4827586206896552,1.0,0.5,0.5,0.4,0.6,Pune Warriors
+Deccan Chargers,Mumbai Indians,0.4098360655737705,0.5573770491803278,0.5,0.0,0.5,0.6,0.6,Mumbai Indians
+Kolkata Knight Riders,Royal Challengers Bangalore,0.42105263157894735,0.5079365079365079,0.375,0.3333333333333333,0.5238095238095238,0.2,0.6,Kolkata Knight Riders
+Chennai Super Kings,Delhi Daredevils,0.59375,0.4915254237288136,0.5714285714285714,1.0,0.4,0.6,0.2,Delhi Daredevils
+Mumbai Indians,Rajasthan Royals,0.5645161290322581,0.5689655172413793,0.42857142857142855,0.5384615384615384,1.0,0.6,0.6,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,0.5,0.5846153846153846,0.45454545454545453,0.4,0.6521739130434783,0.4,0.6,Chennai Super Kings
+Pune Warriors,Kings XI Punjab,0.375,0.4745762711864407,1.0,1.0,0.625,0.4,0.4,Kings XI Punjab
+Rajasthan Royals,Kolkata Knight Riders,0.559322033898305,0.43103448275862066,0.5555555555555556,0.3333333333333333,0.5909090909090909,0.6,0.2,Kolkata Knight Riders
+Chennai Super Kings,Pune Warriors,0.5909090909090909,0.35294117647058826,1.0,0.5,1.0,0.6,0.4,Pune Warriors
+Kings XI Punjab,Kolkata Knight Riders,0.48333333333333334,0.4406779661016949,0.42857142857142855,0.3333333333333333,0.6086956521739131,0.4,0.4,Kings XI Punjab
+Rajasthan Royals,Royal Challengers Bangalore,0.55,0.49230769230769234,0.42857142857142855,0.5,0.5,0.6,0.4,Rajasthan Royals
+Mumbai Indians,Delhi Daredevils,0.5714285714285714,0.5,0.625,0.5714285714285714,0.0,0.6,0.4,Delhi Daredevils
+Deccan Chargers,Rajasthan Royals,0.4032258064516129,0.5573770491803278,0.14285714285714285,0.0,0.7368421052631579,0.6,0.6,Rajasthan Royals
+Pune Warriors,Royal Challengers Bangalore,0.3888888888888889,0.48484848484848486,0.0,0.0,0.4782608695652174,0.6,0.2,Royal Challengers Bangalore
+Kings XI Punjab,Kolkata Knight Riders,0.4918032786885246,0.43333333333333335,0.5,0.6470588235294118,0.5,0.4,0.4,Kolkata Knight Riders
+Deccan Chargers,Delhi Daredevils,0.3968253968253968,0.5081967213114754,0.4444444444444444,0.6666666666666666,0.42857142857142855,0.4,0.6,Delhi Daredevils
+Chennai Super Kings,Pune Warriors,0.582089552238806,0.3684210526315789,0.6666666666666666,0.6666666666666666,0.0,0.4,0.6,Chennai Super Kings
+Kings XI Punjab,Royal Challengers Bangalore,0.4838709677419355,0.4925373134328358,0.5,0.6111111111111112,0.5,0.4,0.4,Royal Challengers Bangalore
+Rajasthan Royals,Chennai Super Kings,0.5645161290322581,0.5882352941176471,0.4444444444444444,0.3333333333333333,0.68,0.6,0.6,Chennai Super Kings
+Pune Warriors,Delhi Daredevils,0.35,0.5161290322580645,0.0,0.0,0.45454545454545453,0.4,0.8,Pune Warriors
+Mumbai Indians,Kings XI Punjab,0.5625,0.47619047619047616,0.375,0.5333333333333333,0.3333333333333333,0.6,0.4,Kings XI Punjab
+Deccan Chargers,Kolkata Knight Riders,0.390625,0.4426229508196721,0.25,1.0,0.5,0.2,0.6,Kolkata Knight Riders
+Royal Challengers Bangalore,Rajasthan Royals,0.5,0.5555555555555556,0.5,0.6666666666666666,0.75,0.4,0.4,Royal Challengers Bangalore
+Pune Warriors,Delhi Daredevils,0.38095238095238093,0.5079365079365079,0.3333333333333333,1.0,0.5,0.4,0.6,Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,0.484375,0.5538461538461539,0.6666666666666666,0.5789473684210527,0.0,0.6,0.4,Mumbai Indians
+Deccan Chargers,Pune Warriors,0.38461538461538464,0.36363636363636365,0.5,0.5,0.6666666666666666,0.0,0.4,Deccan Chargers
+Delhi Daredevils,Mumbai Indians,0.515625,0.5606060606060606,0.4444444444444444,0.43478260869565216,0.6666666666666666,0.8,0.6,Delhi Daredevils
+Kings XI Punjab,Chennai Super Kings,0.47692307692307695,0.5942028985507246,0.25,0.5,0.6923076923076923,0.4,0.6,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,0.45161290322580644,0.5072463768115942,0.4444444444444444,0.5833333333333334,0.3333333333333333,0.8,0.6,Kolkata Knight Riders
+Delhi Daredevils,Rajasthan Royals,0.5230769230769231,0.546875,0.5,0.4583333333333333,0.0,0.8,0.4,Delhi Daredevils
+Deccan Chargers,Mumbai Indians,0.3939393939393939,0.5522388059701493,0.4444444444444444,1.0,0.5,0.2,0.4,Mumbai Indians
+Chennai Super Kings,Kolkata Knight Riders,0.5857142857142857,0.4603174603174603,0.7142857142857143,0.6666666666666666,0.0,0.6,0.8,Kolkata Knight Riders
+Deccan Chargers,Pune Warriors,0.3880597014925373,0.34782608695652173,0.6666666666666666,0.6666666666666666,0.5,0.2,0.2,Deccan Chargers
+Rajasthan Royals,Delhi Daredevils,0.5384615384615384,0.5303030303030303,0.4444444444444444,0.7142857142857143,0.0,0.4,0.8,Delhi Daredevils
+Royal Challengers Bangalore,Kings XI Punjab,0.5,0.48484848484848486,0.5555555555555556,0.5,0.3333333333333333,0.6,0.4,Kings XI Punjab
+Mumbai Indians,Pune Warriors,0.5588235294117647,0.3333333333333333,0.6666666666666666,0.5,0.5,0.4,0.2,Mumbai Indians
+Chennai Super Kings,Deccan Chargers,0.5774647887323944,0.39705882352941174,0.5555555555555556,0.6428571428571429,0.6666666666666666,0.4,0.4,Chennai Super Kings
+Kolkata Knight Riders,Pune Warriors,0.46875,0.32,1.0,0.6,0.5,0.8,0.2,Kolkata Knight Riders
+Rajasthan Royals,Kings XI Punjab,0.5303030303030303,0.4925373134328358,0.625,0.3333333333333333,0.55,0.2,0.6,Rajasthan Royals
+Chennai Super Kings,Mumbai Indians,0.5833333333333334,0.5652173913043478,0.4444444444444444,0.5,0.5294117647058824,0.6,0.6,Mumbai Indians
+Deccan Chargers,Royal Challengers Bangalore,0.391304347826087,0.49295774647887325,0.5555555555555556,0.5,0.48,0.4,0.6,Royal Challengers Bangalore
+Delhi Daredevils,Kolkata Knight Riders,0.5373134328358209,0.47692307692307695,0.5714285714285714,0.48,0.5,0.8,1.0,Kolkata Knight Riders
+Pune Warriors,Rajasthan Royals,0.3076923076923077,0.5373134328358209,0.0,0.4,0.5,0.0,0.2,Rajasthan Royals
+Kings XI Punjab,Deccan Chargers,0.4852941176470588,0.38571428571428573,0.625,1.0,0.07142857142857142,0.6,0.4,Kings XI Punjab
+Mumbai Indians,Royal Challengers Bangalore,0.5714285714285714,0.5,0.5555555555555556,0.5555555555555556,0.5,0.8,0.6,Royal Challengers Bangalore
+Deccan Chargers,Delhi Daredevils,0.38028169014084506,0.5294117647058824,0.4,0.06666666666666667,1.0,0.2,0.8,Delhi Daredevils
+Rajasthan Royals,Chennai Super Kings,0.5441176470588235,0.5753424657534246,0.4,0.6818181818181818,0.5,0.4,0.4,Chennai Super Kings
+Royal Challengers Bangalore,Pune Warriors,0.5068493150684932,0.2962962962962963,1.0,0.5,0.3333333333333333,0.6,0.0,Royal Challengers Bangalore
+Mumbai Indians,Kolkata Knight Riders,0.5633802816901409,0.48484848484848486,0.875,0.6666666666666666,0.6153846153846154,0.6,1.0,Mumbai Indians
+Delhi Daredevils,Chennai Super Kings,0.5362318840579711,0.581081081081081,0.5,0.6666666666666666,0.6551724137931034,0.8,0.4,Chennai Super Kings
+Rajasthan Royals,Pune Warriors,0.5362318840579711,0.2857142857142857,1.0,0.6521739130434783,0.0,0.4,0.0,Rajasthan Royals
+Deccan Chargers,Kings XI Punjab,0.375,0.4927536231884058,0.3333333333333333,0.0,0.5238095238095238,0.2,0.6,Kings XI Punjab
+Royal Challengers Bangalore,Mumbai Indians,0.5135135135135135,0.5694444444444444,0.5,0.5,1.0,0.6,0.8,Mumbai Indians
+Kolkata Knight Riders,Chennai Super Kings,0.47761194029850745,0.5866666666666667,0.375,0.5925925925925926,0.6666666666666666,0.8,0.6,Chennai Super Kings
+Kings XI Punjab,Delhi Daredevils,0.5,0.5285714285714286,0.625,0.6666666666666666,0.46153846153846156,0.8,0.6,Delhi Daredevils
+Kolkata Knight Riders,Mumbai Indians,0.47058823529411764,0.5753424657534246,0.1111111111111111,0.0,0.5263157894736842,0.6,0.8,Kolkata Knight Riders
+Chennai Super Kings,Kings XI Punjab,0.5921052631578947,0.49295774647887325,0.6666666666666666,1.0,0.4,0.8,0.6,Kings XI Punjab
+Royal Challengers Bangalore,Delhi Daredevils,0.5066666666666667,0.5352112676056338,0.375,0.3333333333333333,0.48148148148148145,0.6,0.6,Royal Challengers Bangalore
+Rajasthan Royals,Deccan Chargers,0.5428571428571428,0.3698630136986301,0.875,1.0,0.0625,0.6,0.0,Deccan Chargers
+Kings XI Punjab,Delhi Daredevils,0.5,0.5277777777777778,0.5555555555555556,0.5,0.0,0.6,0.4,Delhi Daredevils
+Kolkata Knight Riders,Pune Warriors,0.4782608695652174,0.27586206896551724,1.0,0.5,0.2857142857142857,0.6,0.0,Kolkata Knight Riders
+Deccan Chargers,Royal Challengers Bangalore,0.3783783783783784,0.5131578947368421,0.5,0.11764705882352941,0.5,0.2,0.8,Deccan Chargers
+Rajasthan Royals,Mumbai Indians,0.5352112676056338,0.5675675675675675,0.5,0.6666666666666666,0.3333333333333333,0.6,0.6,Mumbai Indians
+Kolkata Knight Riders,Delhi Daredevils,0.4857142857142857,0.5342465753424658,0.5,1.0,1.0,0.6,0.6,Kolkata Knight Riders
+Chennai Super Kings,Mumbai Indians,0.5844155844155844,0.5733333333333334,0.4,0.3333333333333333,1.0,0.6,0.6,Chennai Super Kings
+Chennai Super Kings,Delhi Daredevils,0.5897435897435898,0.527027027027027,0.5555555555555556,0.6666666666666666,0.5,0.8,0.4,Chennai Super Kings
+Chennai Super Kings,Kolkata Knight Riders,0.5949367088607594,0.49295774647887325,0.6666666666666666,0.6774193548387096,0.25,0.8,0.6,Kolkata Knight Riders
+Delhi Daredevils,Kolkata Knight Riders,0.52,0.5,0.4444444444444444,0.3333333333333333,0.5714285714285714,0.4,0.8,Kolkata Knight Riders
+Royal Challengers Bangalore,Mumbai Indians,0.5064935064935064,0.5657894736842105,0.45454545454545453,0.48148148148148145,0.8,0.6,0.6,Royal Challengers Bangalore
+Sunrisers Hyderabad,Pune Warriors,0.5,0.26666666666666666,0.5,0.5,1.0,0.5,0.0,Sunrisers Hyderabad
+Rajasthan Royals,Delhi Daredevils,0.5277777777777778,0.5131578947368421,0.4,0.0,0.4642857142857143,0.4,0.2,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,0.5584415584415584,0.5875,0.5454545454545454,0.25,0.65625,0.4,0.6,Mumbai Indians
+Pune Warriors,Kings XI Punjab,0.25806451612903225,0.4931506849315068,0.75,0.25,0.0,0.0,0.6,Kings XI Punjab
+Royal Challengers Bangalore,Sunrisers Hyderabad,0.5128205128205128,1.0,0.5,0.3333333333333333,1.0,0.6,1.0,Sunrisers Hyderabad
+Rajasthan Royals,Kolkata Knight Riders,0.5342465753424658,0.5068493150684932,0.5,0.64,0.3333333333333333,0.4,1.0,Rajasthan Royals
+Mumbai Indians,Delhi Daredevils,0.5641025641025641,0.5064935064935064,0.5,0.5,0.3333333333333333,0.4,0.2,Mumbai Indians
+Sunrisers Hyderabad,Royal Challengers Bangalore,1.0,0.5063291139240507,1.0,0.5,0.5,1.0,0.4,Royal Challengers Bangalore
+Kings XI Punjab,Chennai Super Kings,0.5,0.5802469135802469,0.4,0.5454545454545454,0.5,0.6,0.4,Chennai Super Kings
+Kolkata Knight Riders,Royal Challengers Bangalore,0.5,0.5125,0.5,0.5,0.5172413793103449,0.8,0.6,Royal Challengers Bangalore
+Rajasthan Royals,Pune Warriors,0.5405405405405406,0.25,1.0,1.0,0.2222222222222222,0.6,0.0,Pune Warriors
+Delhi Daredevils,Sunrisers Hyderabad,0.5,0.6666666666666666,0.5,0.4482758620689655,0.5,0.0,0.6666666666666666,Sunrisers Hyderabad
+Mumbai Indians,Pune Warriors,0.569620253164557,0.2727272727272727,0.75,0.5238095238095238,0.5,0.6,0.2,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,0.5185185185185185,0.5853658536585366,0.4166666666666667,0.3333333333333333,0.6363636363636364,0.6,0.6,Chennai Super Kings
+Kolkata Knight Riders,Sunrisers Hyderabad,0.49333333333333335,0.75,0.5,0.5862068965517241,0.5,0.6,0.75,Kolkata Knight Riders
+Kings XI Punjab,Rajasthan Royals,0.49333333333333335,0.5333333333333333,0.3333333333333333,0.0,0.6538461538461539,0.4,0.4,Rajasthan Royals
+Pune Warriors,Chennai Super Kings,0.2647058823529412,0.5903614457831325,0.25,0.0,0.6470588235294118,0.2,0.6,Pune Warriors
+Kings XI Punjab,Kolkata Knight Riders,0.4868421052631579,0.5,0.4444444444444444,0.5217391304347826,0.6666666666666666,0.4,0.6,Kings XI Punjab
+Delhi Daredevils,Royal Challengers Bangalore,0.4936708860759494,0.5121951219512195,0.5555555555555556,0.6666666666666666,0.5333333333333333,0.0,0.6,Royal Challengers Bangalore
+Sunrisers Hyderabad,Pune Warriors,0.6,0.2857142857142857,1.0,0.5,0.3,0.6,0.4,Sunrisers Hyderabad
+Rajasthan Royals,Mumbai Indians,0.5394736842105263,0.575,0.4444444444444444,0.6666666666666666,0.5,0.6,0.6,Rajasthan Royals
+Chennai Super Kings,Delhi Daredevils,0.5833333333333334,0.4875,0.6,0.6666666666666666,0.43333333333333335,0.4,0.0,Chennai Super Kings
+Kings XI Punjab,Sunrisers Hyderabad,0.4935064935064935,0.6666666666666666,0.5,1.0,1.0,0.4,0.6,Sunrisers Hyderabad
+Kolkata Knight Riders,Chennai Super Kings,0.4935064935064935,0.5882352941176471,0.4,0.6,0.75,0.4,0.6,Chennai Super Kings
+Rajasthan Royals,Royal Challengers Bangalore,0.5454545454545454,0.5180722891566265,0.4444444444444444,0.6666666666666666,0.5483870967741935,0.8,0.6,Royal Challengers Bangalore
+Mumbai Indians,Delhi Daredevils,0.5679012345679012,0.48148148148148145,0.5454545454545454,0.5,0.41935483870967744,0.6,0.0,Delhi Daredevils
+Pune Warriors,Kings XI Punjab,0.2777777777777778,0.48717948717948717,0.6,0.5,0.5416666666666666,0.4,0.4,Kings XI Punjab
+Rajasthan Royals,Chennai Super Kings,0.5384615384615384,0.5930232558139535,0.36363636363636365,0.25,0.6285714285714286,0.6,0.8,Chennai Super Kings
+Royal Challengers Bangalore,Pune Warriors,0.5238095238095238,0.2702702702702703,1.0,0.5625,0.0,0.8,0.4,Royal Challengers Bangalore
+Delhi Daredevils,Kings XI Punjab,0.4878048780487805,0.4936708860759494,0.5,0.4375,0.5,0.2,0.4,Kings XI Punjab
+Kolkata Knight Riders,Mumbai Indians,0.48717948717948717,0.5609756097560976,0.2,0.5806451612903226,0.75,0.2,0.6,Mumbai Indians
+Sunrisers Hyderabad,Chennai Super Kings,0.7142857142857143,0.5977011494252874,0.5,0.5,0.6388888888888888,0.6,0.8,Chennai Super Kings
+Kings XI Punjab,Kolkata Knight Riders,0.5,0.4810126582278481,0.5,0.5,0.5625,0.6,0.2,Kolkata Knight Riders
+Sunrisers Hyderabad,Rajasthan Royals,0.625,0.5316455696202531,0.5,0.5,0.6785714285714286,0.6,0.4,Rajasthan Royals
+Mumbai Indians,Royal Challengers Bangalore,0.5662650602409639,0.5294117647058824,0.5,0.5454545454545454,0.6666666666666666,0.6,0.8,Mumbai Indians
+Chennai Super Kings,Kolkata Knight Riders,0.6022727272727273,0.4875,0.6363636363636364,0.6486486486486487,0.4,0.8,0.4,Chennai Super Kings
+Delhi Daredevils,Pune Warriors,0.4819277108433735,0.2631578947368421,0.5,0.5,0.5,0.2,0.2,Delhi Daredevils
+Royal Challengers Bangalore,Rajasthan Royals,0.5232558139534884,0.5375,0.6,0.75,0.6896551724137931,0.6,0.6,Rajasthan Royals
+Mumbai Indians,Kings XI Punjab,0.5714285714285714,0.49382716049382713,0.4,0.5652173913043478,0.5,0.6,0.6,Mumbai Indians
+Chennai Super Kings,Pune Warriors,0.6067415730337079,0.2564102564102564,0.6,0.0,0.2727272727272727,1.0,0.2,Chennai Super Kings
+Mumbai Indians,Sunrisers Hyderabad,0.5764705882352941,0.5555555555555556,0.5,1.0,1.0,0.6,0.4,Sunrisers Hyderabad
+Kolkata Knight Riders,Delhi Daredevils,0.48148148148148145,0.4880952380952381,0.6,0.5,1.0,0.2,0.4,Delhi Daredevils
+Chennai Super Kings,Kings XI Punjab,0.6111111111111112,0.4878048780487805,0.6363636363636364,0.6578947368421053,0.6666666666666666,1.0,0.4,Chennai Super Kings
+Royal Challengers Bangalore,Pune Warriors,0.5172413793103449,0.25,1.0,1.0,0.25,0.6,0.0,Royal Challengers Bangalore
+Rajasthan Royals,Kolkata Knight Riders,0.5432098765432098,0.47560975609756095,0.5454545454545454,0.25,0.5757575757575758,0.6,0.2,Kolkata Knight Riders
+Delhi Daredevils,Sunrisers Hyderabad,0.49411764705882355,0.6,0.0,1.0,1.0,0.6,0.6,Sunrisers Hyderabad
+Mumbai Indians,Chennai Super Kings,0.5697674418604651,0.6153846153846154,0.5833333333333334,0.5833333333333334,0.4,0.6,1.0,Mumbai Indians
+Pune Warriors,Rajasthan Royals,0.24390243902439024,0.5365853658536586,0.25,0.0,0.7,0.0,0.4,Rajasthan Royals
+Royal Challengers Bangalore,Kings XI Punjab,0.5227272727272727,0.4819277108433735,0.5,0.6666666666666666,0.56,0.6,0.4,Kings XI Punjab
+Delhi Daredevils,Rajasthan Royals,0.4883720930232558,0.5421686746987951,0.5454545454545454,0.3333333333333333,0.7096774193548387,0.6,0.6,Rajasthan Royals
+Mumbai Indians,Kolkata Knight Riders,0.5747126436781609,0.4819277108433735,0.8181818181818182,0.6,0.3333333333333333,0.8,0.4,Mumbai Indians
+Chennai Super Kings,Sunrisers Hyderabad,0.6086956521739131,0.6363636363636364,1.0,1.0,1.0,0.8,0.6,Chennai Super Kings
+Kings XI Punjab,Rajasthan Royals,0.4880952380952381,0.5476190476190477,0.3,0.5769230769230769,0.5,0.4,0.8,Rajasthan Royals
+Kolkata Knight Riders,Pune Warriors,0.47619047619047616,0.23809523809523808,1.0,1.0,0.23076923076923078,0.4,0.0,Kolkata Knight Riders
+Royal Challengers Bangalore,Delhi Daredevils,0.5168539325842697,0.4827586206896552,0.5,0.5,0.42424242424242425,0.4,0.4,Royal Challengers Bangalore
+Pune Warriors,Mumbai Indians,0.23255813953488372,0.5795454545454546,0.2,0.21428571428571427,1.0,0.0,0.8,Mumbai Indians
+Sunrisers Hyderabad,Kings XI Punjab,0.5833333333333334,0.4823529411764706,1.0,0.5,0.5555555555555556,0.4,0.2,Sunrisers Hyderabad
+Royal Challengers Bangalore,Kolkata Knight Riders,0.5222222222222223,0.4823529411764706,0.5454545454545454,0.5,0.5,0.4,0.4,Kolkata Knight Riders
+Chennai Super Kings,Rajasthan Royals,0.6129032258064516,0.5529411764705883,0.6666666666666666,0.6666666666666666,0.71875,0.8,0.8,Rajasthan Royals
+Sunrisers Hyderabad,Mumbai Indians,0.6153846153846154,0.5842696629213483,1.0,0.5,0.6153846153846154,0.6,0.8,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,0.5164835164835165,0.47674418604651164,0.45454545454545453,0.5757575757575758,0.5,0.4,0.2,Kings XI Punjab
+Chennai Super Kings,Delhi Daredevils,0.6063829787234043,0.4772727272727273,0.6363636363636364,0.6666666666666666,0.4,0.6,0.4,Chennai Super Kings
+Pune Warriors,Kolkata Knight Riders,0.22727272727272727,0.4883720930232558,0.0,0.5,1.0,0.0,0.6,Pune Warriors
+Mumbai Indians,Rajasthan Royals,0.5888888888888889,0.5581395348837209,0.5,0.6296296296296297,0.6666666666666666,0.8,0.8,Mumbai Indians
+Kings XI Punjab,Delhi Daredevils,0.4827586206896552,0.47191011235955055,0.5454545454545454,0.42857142857142855,0.5,0.4,0.2,Kings XI Punjab
+Sunrisers Hyderabad,Rajasthan Royals,0.5714285714285714,0.5517241379310345,0.0,0.8333333333333334,0.6666666666666666,0.6,0.8,Sunrisers Hyderabad
+Kings XI Punjab,Mumbai Indians,0.48863636363636365,0.5934065934065934,0.5454545454545454,0.5,0.5,0.6,1.0,Kings XI Punjab
+Royal Challengers Bangalore,Chennai Super Kings,0.5108695652173914,0.6105263157894737,0.38461538461538464,0.5588235294117647,0.5,0.4,0.6,Royal Challengers Bangalore
+Pune Warriors,Delhi Daredevils,0.24444444444444444,0.4666666666666667,0.2,0.2,0.5,0.2,0.0,Pune Warriors
+Kolkata Knight Riders,Sunrisers Hyderabad,0.4827586206896552,0.6,1.0,1.0,0.8571428571428571,0.6,0.6,Sunrisers Hyderabad
+Chennai Super Kings,Mumbai Indians,0.6041666666666666,0.5869565217391305,0.38461538461538464,0.75,0.4,0.4,0.8,Chennai Super Kings
+Sunrisers Hyderabad,Rajasthan Royals,0.625,0.5454545454545454,0.5,1.0,0.25,0.6,0.6,Rajasthan Royals
+Rajasthan Royals,Mumbai Indians,0.550561797752809,0.5806451612903226,0.45454545454545453,0.2,0.8,0.6,0.6,Mumbai Indians
+Mumbai Indians,Chennai Super Kings,0.5851063829787234,0.6082474226804123,0.5714285714285714,0.8333333333333334,0.8,0.6,0.6,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,0.4772727272727273,0.5894736842105263,0.16666666666666666,0.5,0.5,0.4,0.6,Kolkata Knight Riders
+Delhi Daredevils,Royal Challengers Bangalore,0.46153846153846156,0.5161290322580645,0.45454545454545453,0.5,0.5,0.0,0.4,Royal Challengers Bangalore
+Chennai Super Kings,Kings XI Punjab,0.6020408163265306,0.4943820224719101,0.6666666666666666,0.5,0.5,0.4,0.6,Kings XI Punjab
+Sunrisers Hyderabad,Rajasthan Royals,0.5882352941176471,0.5444444444444444,0.3333333333333333,0.5,0.5,0.6,0.4,Rajasthan Royals
+Mumbai Indians,Royal Challengers Bangalore,0.5833333333333334,0.5212765957446809,0.5384615384615384,0.5,0.5,0.4,0.6,Royal Challengers Bangalore
+Kolkata Knight Riders,Delhi Daredevils,0.48314606741573035,0.45652173913043476,0.5454545454545454,0.5,0.5,0.6,0.0,Delhi Daredevils
+Rajasthan Royals,Kings XI Punjab,0.5494505494505495,0.5,0.7272727272727273,0.5,0.5,0.4,0.8,Kings XI Punjab
+Chennai Super Kings,Delhi Daredevils,0.5959595959595959,0.46236559139784944,0.6666666666666666,0.0,0.5,0.4,0.2,Chennai Super Kings
+Kings XI Punjab,Sunrisers Hyderabad,0.5054945054945055,0.5555555555555556,0.0,1.0,0.5,1.0,0.4,Kings XI Punjab
+Chennai Super Kings,Rajasthan Royals,0.6,0.5434782608695652,0.6153846153846154,0.5,0.5,0.4,0.4,Chennai Super Kings
+Kolkata Knight Riders,Royal Challengers Bangalore,0.4777777777777778,0.5263157894736842,0.5,0.5,1.0,0.4,0.6,Kolkata Knight Riders
+Sunrisers Hyderabad,Delhi Daredevils,0.5263157894736842,0.4574468085106383,1.0,0.5,1.0,0.4,0.2,Sunrisers Hyderabad
+Mumbai Indians,Chennai Super Kings,0.5773195876288659,0.6039603960396039,0.6,0.0,1.0,0.4,0.6,Chennai Super Kings
+Royal Challengers Bangalore,Rajasthan Royals,0.5208333333333334,0.5376344086021505,0.5454545454545454,0.5,1.0,0.6,0.4,Rajasthan Royals
+Kings XI Punjab,Kolkata Knight Riders,0.5108695652173914,0.4835164835164835,0.45454545454545453,1.0,1.0,1.0,0.4,Kings XI Punjab
+Mumbai Indians,Delhi Daredevils,0.5714285714285714,0.45263157894736844,0.5,0.5,0.0,0.4,0.2,Delhi Daredevils
+Sunrisers Hyderabad,Chennai Super Kings,0.55,0.6078431372549019,0.0,0.0,0.5,0.4,0.6,Chennai Super Kings
+Royal Challengers Bangalore,Kings XI Punjab,0.5154639175257731,0.5161290322580645,0.4166666666666667,1.0,0.5,0.6,1.0,Kings XI Punjab
+Rajasthan Royals,Kolkata Knight Riders,0.5425531914893617,0.4782608695652174,0.5,1.0,0.5,0.4,0.4,Rajasthan Royals
+Sunrisers Hyderabad,Mumbai Indians,0.5238095238095238,0.5656565656565656,0.5,1.0,0.0,0.2,0.2,Sunrisers Hyderabad
+Chennai Super Kings,Kolkata Knight Riders,0.6116504854368932,0.4731182795698925,0.6666666666666666,0.5,0.5,0.8,0.4,Chennai Super Kings
+Kings XI Punjab,Mumbai Indians,0.5212765957446809,0.56,0.5833333333333334,0.4,0.6428571428571429,1.0,0.0,Mumbai Indians
+Delhi Daredevils,Rajasthan Royals,0.4583333333333333,0.5473684210526316,0.5,0.4117647058823529,0.4,0.4,0.6,Rajasthan Royals
+Sunrisers Hyderabad,Royal Challengers Bangalore,0.5454545454545454,0.5102040816326531,0.5,0.0,0.5714285714285714,0.4,0.4,Royal Challengers Bangalore
+Rajasthan Royals,Kolkata Knight Riders,0.5520833333333334,0.46808510638297873,0.5384615384615384,0.75,0.0,0.6,0.2,Rajasthan Royals
+Delhi Daredevils,Chennai Super Kings,0.4536082474226804,0.6153846153846154,0.3076923076923077,0.4,0.8,0.4,1.0,Chennai Super Kings
+Mumbai Indians,Royal Challengers Bangalore,0.5643564356435643,0.5151515151515151,0.5,0.6551724137931034,0.5,0.2,0.4,Mumbai Indians
+Delhi Daredevils,Kolkata Knight Riders,0.4489795918367347,0.4631578947368421,0.5,0.3888888888888889,0.6666666666666666,0.2,0.2,Kolkata Knight Riders
+Kings XI Punjab,Chennai Super Kings,0.5157894736842106,0.6190476190476191,0.38461538461538464,0.0,0.5,0.8,1.0,Kings XI Punjab
+Sunrisers Hyderabad,Rajasthan Royals,0.5217391304347826,0.5567010309278351,0.25,0.5,0.8,0.4,0.8,Sunrisers Hyderabad
+Kings XI Punjab,Royal Challengers Bangalore,0.5208333333333334,0.51,0.6153846153846154,0.6,0.5833333333333334,0.8,0.2,Kings XI Punjab
+Delhi Daredevils,Sunrisers Hyderabad,0.4444444444444444,0.5416666666666666,0.0,0.3783783783783784,0.5,0.2,0.6,Sunrisers Hyderabad
+Mumbai Indians,Chennai Super Kings,0.5686274509803921,0.6132075471698113,0.5625,0.6666666666666666,0.3333333333333333,0.4,0.8,Chennai Super Kings
+Kings XI Punjab,Kolkata Knight Riders,0.5257731958762887,0.46875,0.5,0.5,1.0,0.8,0.2,Kolkata Knight Riders
+Royal Challengers Bangalore,Rajasthan Royals,0.504950495049505,0.5510204081632653,0.5,0.5675675675675675,0.5,0.2,0.8,Rajasthan Royals
+Sunrisers Hyderabad,Mumbai Indians,0.56,0.5631067961165048,0.6666666666666666,0.875,0.6666666666666666,0.6,0.4,Mumbai Indians
+Rajasthan Royals,Chennai Super Kings,0.5555555555555556,0.616822429906542,0.35714285714285715,0.5,1.0,0.8,0.8,Chennai Super Kings
+Royal Challengers Bangalore,Delhi Daredevils,0.5,0.44,0.5833333333333334,0.5526315789473685,0.5,0.2,0.2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Kings XI Punjab,0.5384615384615384,0.5204081632653061,0.6666666666666666,0.7777777777777778,0.75,0.6,0.6,Kings XI Punjab
+Mumbai Indians,Kolkata Knight Riders,0.5673076923076923,0.4742268041237113,0.7692307692307693,0.5,1.0,0.6,0.4,Kolkata Knight Riders
+Rajasthan Royals,Delhi Daredevils,0.55,0.43564356435643564,0.5384615384615384,0.6666666666666666,1.0,0.6,0.0,Rajasthan Royals
+Chennai Super Kings,Royal Challengers Bangalore,0.6203703703703703,0.5048543689320388,0.5714285714285714,1.0,0.0,0.8,0.4,Royal Challengers Bangalore
+Sunrisers Hyderabad,Kolkata Knight Riders,0.5185185185185185,0.47959183673469385,0.5,0.7,0.6666666666666666,0.4,0.6,Kolkata Knight Riders
+Mumbai Indians,Rajasthan Royals,0.5619047619047619,0.5544554455445545,0.5833333333333334,0.5,0.7142857142857143,0.6,0.6,Mumbai Indians
+Delhi Daredevils,Kings XI Punjab,0.43137254901960786,0.5252525252525253,0.4166666666666667,0.3684210526315789,0.6,0.0,0.6,Kings XI Punjab
+Royal Challengers Bangalore,Sunrisers Hyderabad,0.5096153846153846,0.5,0.6666666666666666,0.25,0.6363636363636364,0.4,0.4,Sunrisers Hyderabad
+Chennai Super Kings,Kolkata Knight Riders,0.6146788990825688,0.48484848484848486,0.6923076923076923,0.6666666666666666,0.5882352941176471,0.6,0.8,Kolkata Knight Riders
+Kings XI Punjab,Mumbai Indians,0.53,0.5660377358490566,0.5384615384615384,0.5357142857142857,0.25,0.8,0.6,Mumbai Indians
+Kolkata Knight Riders,Royal Challengers Bangalore,0.49,0.5047619047619047,0.5384615384615384,0.6,0.25,1.0,0.4,Kolkata Knight Riders
+Chennai Super Kings,Sunrisers Hyderabad,0.6090909090909091,0.5172413793103449,1.0,0.6666666666666666,0.5,0.4,0.4,Sunrisers Hyderabad
+Mumbai Indians,Delhi Daredevils,0.5700934579439252,0.42718446601941745,0.46153846153846156,0.6451612903225806,0.25,0.6,0.0,Mumbai Indians
+Kings XI Punjab,Rajasthan Royals,0.5247524752475248,0.5490196078431373,0.3333333333333333,0.5172413793103449,0.6,0.6,0.4,Kings XI Punjab
+Royal Challengers Bangalore,Chennai Super Kings,0.5,0.6036036036036037,0.4666666666666667,0.5641025641025641,0.4,0.4,0.4,Chennai Super Kings
+Sunrisers Hyderabad,Kolkata Knight Riders,0.5333333333333333,0.49504950495049505,0.3333333333333333,0.0,0.6111111111111112,0.4,1.0,Kolkata Knight Riders
+Delhi Daredevils,Kings XI Punjab,0.4230769230769231,0.5294117647058824,0.38461538461538464,0.5,0.5333333333333333,0.0,0.6,Kings XI Punjab
+Rajasthan Royals,Mumbai Indians,0.5436893203883495,0.5740740740740741,0.38461538461538464,0.5,0.65625,0.4,0.8,Mumbai Indians
+Kolkata Knight Riders,Kings XI Punjab,0.5,0.5339805825242718,0.5384615384615384,0.6216216216216216,0.4,1.0,0.8,Kolkata Knight Riders
+Mumbai Indians,Chennai Super Kings,0.5779816513761468,0.6071428571428571,0.5294117647058824,0.8571428571428571,0.0,0.8,0.4,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,0.5288461538461539,0.6106194690265486,0.42857142857142855,0.3333333333333333,0.42857142857142855,0.6,0.4,Kings XI Punjab
+Kings XI Punjab,Kolkata Knight Riders,0.5333333333333333,0.5048543689320388,0.42857142857142855,0.6666666666666666,0.4,0.6,1.0,Kolkata Knight Riders
+Mumbai Indians,Kolkata Knight Riders,0.5727272727272728,0.5096153846153846,0.7142857142857143,0.8571428571428571,0.631578947368421,0.8,1.0,Kolkata Knight Riders
+Chennai Super Kings,Delhi Daredevils,0.6052631578947368,0.41904761904761906,0.7142857142857143,0.675,0.3333333333333333,0.4,0.0,Chennai Super Kings
+Rajasthan Royals,Kings XI Punjab,0.5384615384615384,0.5283018867924528,0.6153846153846154,0.5,0.5,0.2,0.6,Rajasthan Royals
+Chennai Super Kings,Sunrisers Hyderabad,0.6086956521739131,0.5161290322580645,0.75,0.6829268292682927,0.0,0.6,0.4,Chennai Super Kings
+Kolkata Knight Riders,Royal Challengers Bangalore,0.5142857142857142,0.4953271028037383,0.5714285714285714,0.6410256410256411,0.2,1.0,0.4,Royal Challengers Bangalore
+Delhi Daredevils,Rajasthan Royals,0.41509433962264153,0.5428571428571428,0.42857142857142855,0.358974358974359,0.5,0.0,0.4,Rajasthan Royals
+Kings XI Punjab,Mumbai Indians,0.5233644859813084,0.5675675675675675,0.5,0.42857142857142855,0.6666666666666666,0.4,0.6,Kings XI Punjab
+Royal Challengers Bangalore,Sunrisers Hyderabad,0.5,0.5,0.5,0.55,0.0,0.4,0.4,Sunrisers Hyderabad
+Mumbai Indians,Rajasthan Royals,0.5625,0.5471698113207547,0.6428571428571429,1.0,0.625,0.4,0.4,Rajasthan Royals
+Kings XI Punjab,Delhi Daredevils,0.5277777777777778,0.411214953271028,0.6428571428571429,0.0,0.5,0.4,0.0,Delhi Daredevils
+Sunrisers Hyderabad,Rajasthan Royals,0.5151515151515151,0.5514018691588785,0.4,0.5,0.5,0.6,0.6,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,0.5575221238938053,0.6120689655172413,0.5,0.6470588235294118,0.375,0.2,0.8,Chennai Super Kings
+Delhi Daredevils,Sunrisers Hyderabad,0.4166666666666667,0.5,0.0,0.5,0.0,0.2,0.4,Delhi Daredevils
+Kings XI Punjab,Kolkata Knight Riders,0.5229357798165137,0.5094339622641509,0.4,0.0,0.5,0.4,0.8,Kolkata Knight Riders
+Chennai Super Kings,Rajasthan Royals,0.6153846153846154,0.5555555555555556,0.6666666666666666,0.0,0.6666666666666666,0.8,0.8,Rajasthan Royals
+Mumbai Indians,Royal Challengers Bangalore,0.5526315789473685,0.4954128440366973,0.5333333333333333,0.6666666666666666,0.5365853658536586,0.0,0.2,Mumbai Indians
+Delhi Daredevils,Kolkata Knight Riders,0.42201834862385323,0.514018691588785,0.46153846153846156,0.35,0.75,0.4,0.8,Kolkata Knight Riders
+Rajasthan Royals,Kings XI Punjab,0.5596330275229358,0.5181818181818182,0.6428571428571429,0.7,0.5,1.0,0.2,Kings XI Punjab
+Sunrisers Hyderabad,Kolkata Knight Riders,0.4857142857142857,0.5185185185185185,0.25,0.0,0.5,0.2,0.8,Sunrisers Hyderabad
+Chennai Super Kings,Royal Challengers Bangalore,0.6101694915254238,0.4909090909090909,0.5625,0.5,0.5238095238095238,0.6,0.2,Chennai Super Kings
+Delhi Daredevils,Mumbai Indians,0.41818181818181815,0.5565217391304348,0.5,0.34146341463414637,0.3333333333333333,0.4,0.2,Delhi Daredevils
+Rajasthan Royals,Royal Challengers Bangalore,0.5545454545454546,0.4864864864864865,0.5384615384615384,0.6363636363636364,0.5,0.8,0.2,Royal Challengers Bangalore
+Mumbai Indians,Sunrisers Hyderabad,0.5517241379310345,0.5,0.5,0.6285714285714286,0.0,0.2,0.4,Mumbai Indians
+Chennai Super Kings,Kings XI Punjab,0.6134453781512605,0.5225225225225225,0.5333333333333333,0.6904761904761905,0.5,0.8,0.4,Chennai Super Kings
+Delhi Daredevils,Royal Challengers Bangalore,0.42342342342342343,0.49107142857142855,0.38461538461538464,0.35714285714285715,0.6,0.6,0.4,Royal Challengers Bangalore
+Sunrisers Hyderabad,Kings XI Punjab,0.4864864864864865,0.5178571428571429,0.5,1.0,0.5483870967741935,0.4,0.4,Sunrisers Hyderabad
+Chennai Super Kings,Kolkata Knight Riders,0.6166666666666667,0.5137614678899083,0.6428571428571429,0.6976744186046512,0.3333333333333333,0.8,0.6,Chennai Super Kings
+Royal Challengers Bangalore,Rajasthan Royals,0.49557522123893805,0.5495495495495496,0.5,0.5116279069767442,0.6,0.4,0.6,
+Chennai Super Kings,Kolkata Knight Riders,0.6198347107438017,0.509090909090909,0.6666666666666666,0.5714285714285714,0.625,0.8,0.4,Kolkata Knight Riders
+Kings XI Punjab,Delhi Daredevils,0.5132743362831859,0.41964285714285715,0.6,0.6666666666666666,0.3488372093023256,0.2,0.6,Delhi Daredevils
+Mumbai Indians,Rajasthan Royals,0.5555555555555556,0.5446428571428571,0.6,0.6388888888888888,0.4,0.4,0.4,Mumbai Indians
+Kolkata Knight Riders,Royal Challengers Bangalore,0.5135135135135135,0.49122807017543857,0.5333333333333333,0.5,0.5,0.6,0.4,Royal Challengers Bangalore
+Sunrisers Hyderabad,Chennai Super Kings,0.5,0.6147540983606558,0.2,0.6666666666666666,1.0,0.4,0.6,Sunrisers Hyderabad
+Mumbai Indians,Kings XI Punjab,0.559322033898305,0.5087719298245614,0.4666666666666667,0.4,0.53125,0.6,0.2,Mumbai Indians
+Rajasthan Royals,Delhi Daredevils,0.5398230088495575,0.4247787610619469,0.6,0.0,0.0,0.2,0.6,Rajasthan Royals
+Chennai Super Kings,Royal Challengers Bangalore,0.6097560975609756,0.4956521739130435,0.5882352941176471,0.7045454545454546,0.2857142857142857,0.6,0.6,Chennai Super Kings
+Kolkata Knight Riders,Sunrisers Hyderabad,0.5089285714285714,0.5128205128205128,0.6,0.6341463414634146,0.0,0.4,0.6,Kolkata Knight Riders
+Delhi Daredevils,Mumbai Indians,0.42105263157894735,0.5630252100840336,0.5333333333333333,0.2,0.6486486486486487,0.4,0.8,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,0.49137931034482757,0.5043478260869565,0.35714285714285715,0.5111111111111111,0.5714285714285714,0.6,0.2,Royal Challengers Bangalore
+Kolkata Knight Riders,Delhi Daredevils,0.5132743362831859,0.41739130434782606,0.5714285714285714,0.6428571428571429,0.25,0.4,0.4,Kolkata Knight Riders
+Sunrisers Hyderabad,Rajasthan Royals,0.5,0.543859649122807,0.3333333333333333,0.5,0.5,0.6,0.2,Sunrisers Hyderabad
+Chennai Super Kings,Mumbai Indians,0.6129032258064516,0.5666666666666667,0.5263157894736842,0.7111111111111111,0.4,0.6,0.8,Mumbai Indians
+Kings XI Punjab,Kolkata Knight Riders,0.5,0.5175438596491229,0.375,0.3333333333333333,0.6511627906976745,0.0,0.6,Kolkata Knight Riders
+Sunrisers Hyderabad,Delhi Daredevils,0.5121951219512195,0.41379310344827586,0.8,0.5,1.0,0.6,0.2,Sunrisers Hyderabad
+Royal Challengers Bangalore,Mumbai Indians,0.49572649572649574,0.5702479338842975,0.4375,0.4,0.6578947368421053,0.6,1.0,Royal Challengers Bangalore
+Chennai Super Kings,Rajasthan Royals,0.608,0.5391304347826087,0.625,0.6956521739130435,0.2,0.4,0.2,Chennai Super Kings
+Sunrisers Hyderabad,Kings XI Punjab,0.5238095238095238,0.49572649572649574,0.6,0.6923076923076923,0.8,0.8,0.0,Sunrisers Hyderabad
+Chennai Super Kings,Delhi Daredevils,0.6111111111111112,0.41025641025641024,0.7333333333333333,0.5,0.6666666666666666,0.4,0.2,Delhi Daredevils
+Kings XI Punjab,Royal Challengers Bangalore,0.4915254237288136,0.5,0.6,0.5151515151515151,0.5,0.0,0.6,Kings XI Punjab
+Mumbai Indians,Kolkata Knight Riders,0.5655737704918032,0.5217391304347826,0.6666666666666666,0.6410256410256411,0.25,0.8,0.8,Mumbai Indians
+Sunrisers Hyderabad,Royal Challengers Bangalore,0.5348837209302325,0.4957983193277311,0.6,0.7142857142857143,0.2,0.8,0.6,Royal Challengers Bangalore
+Kings XI Punjab,Chennai Super Kings,0.4957983193277311,0.6062992125984252,0.4375,0.5294117647058824,0.6666666666666666,0.2,0.4,Chennai Super Kings
+Rajasthan Royals,Kolkata Knight Riders,0.5344827586206896,0.5172413793103449,0.5714285714285714,0.3333333333333333,0.0,0.2,0.6,Rajasthan Royals
+Delhi Daredevils,Royal Challengers Bangalore,0.4152542372881356,0.5,0.35714285714285715,0.4,0.5217391304347826,0.2,0.6,
+Sunrisers Hyderabad,Mumbai Indians,0.5227272727272727,0.5691056910569106,0.4,0.6666666666666666,0.75,0.6,0.8,Mumbai Indians
+Mumbai Indians,Chennai Super Kings,0.5725806451612904,0.609375,0.5,0.65,0.4444444444444444,0.8,0.6,Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,0.49586776859504134,0.5384615384615384,0.4666666666666667,0.5,1.0,0.6,0.4,Royal Challengers Bangalore
+Royal Challengers Bangalore,Chennai Super Kings,0.5,0.6046511627906976,0.3888888888888889,0.5,0.5,0.6,0.4,Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,0.576,0.6076923076923076,0.5238095238095238,0.75,0.5,0.8,0.6,Mumbai Indians
+Mumbai Indians,Rising Pune Supergiants,0.5793650793650794,0.5,0.5,0.6585365853658537,0.5,0.8,0.5,Rising Pune Supergiants
+Delhi Daredevils,Kolkata Knight Riders,0.4117647058823529,0.5128205128205128,0.4,0.2,0.6590909090909091,0.2,0.6,Kolkata Knight Riders
+Kings XI Punjab,Gujarat Lions,0.49166666666666664,0.5,0.5,0.5,0.5,0.2,0.5,Gujarat Lions
+Royal Challengers Bangalore,Sunrisers Hyderabad,0.4959349593495935,0.5111111111111111,0.5,0.5106382978723404,0.3333333333333333,0.4,0.6,Royal Challengers Bangalore
+Kolkata Knight Riders,Mumbai Indians,0.5169491525423728,0.5748031496062992,0.3125,0.6666666666666666,0.7777777777777778,0.6,0.8,Mumbai Indians
+Rising Pune Supergiants,Gujarat Lions,1.0,1.0,0.5,0.5,0.5,1.0,1.0,Gujarat Lions
+Kings XI Punjab,Delhi Daredevils,0.48760330578512395,0.4083333333333333,0.5625,0.5714285714285714,0.36363636363636365,0.2,0.2,Delhi Daredevils
+Sunrisers Hyderabad,Kolkata Knight Riders,0.5,0.5126050420168067,0.3333333333333333,0.625,0.75,0.4,0.4,Kolkata Knight Riders
+Mumbai Indians,Gujarat Lions,0.578125,1.0,0.5,0.6428571428571429,0.5,0.8,1.0,Gujarat Lions
+Rising Pune Supergiants,Kings XI Punjab,0.5,0.48360655737704916,0.5,0.5,0.0,0.5,0.2,Kings XI Punjab
+Royal Challengers Bangalore,Delhi Daredevils,0.5,0.4132231404958678,0.6,0.5208333333333334,0.3333333333333333,0.6,0.4,Delhi Daredevils
+Mumbai Indians,Sunrisers Hyderabad,0.5736434108527132,0.48936170212765956,0.6666666666666666,0.8,0.5882352941176471,0.6,0.2,Sunrisers Hyderabad
+Kings XI Punjab,Kolkata Knight Riders,0.4878048780487805,0.5166666666666667,0.35294117647058826,0.5,0.5,0.4,0.4,Kolkata Knight Riders
+Royal Challengers Bangalore,Mumbai Indians,0.496,0.5692307692307692,0.47058823529411764,0.5,0.627906976744186,0.4,0.4,Mumbai Indians
+Gujarat Lions,Sunrisers Hyderabad,1.0,0.5,0.5,1.0,0.5,1.0,0.2,Sunrisers Hyderabad
+Royal Challengers Bangalore,Rising Pune Supergiants,0.49206349206349204,0.3333333333333333,0.5,1.0,0.5,0.4,0.3333333333333333,Royal Challengers Bangalore
+Delhi Daredevils,Mumbai Indians,0.4180327868852459,0.5725190839694656,0.5,0.37777777777777777,0.2857142857142857,0.6,0.4,Delhi Daredevils
+Kings XI Punjab,Sunrisers Hyderabad,0.4838709677419355,0.5102040816326531,0.3333333333333333,0.6666666666666666,0.6111111111111112,0.2,0.4,Sunrisers Hyderabad
+Royal Challengers Bangalore,Gujarat Lions,0.49606299212598426,0.75,0.5,0.5,0.5,0.4,0.75,Gujarat Lions
+Rising Pune Supergiants,Kolkata Knight Riders,0.25,0.5206611570247934,0.5,0.0,1.0,0.25,0.6,Kolkata Knight Riders
+Mumbai Indians,Kings XI Punjab,0.5681818181818182,0.48,0.5,0.5,0.3333333333333333,0.4,0.2,Mumbai Indians
+Sunrisers Hyderabad,Rising Pune Supergiants,0.52,0.2,0.5,0.631578947368421,0.5,0.6,0.2,Rising Pune Supergiants
+Gujarat Lions,Delhi Daredevils,0.8,0.42276422764227645,0.5,0.5,0.391304347826087,0.8,0.6,Gujarat Lions
+Kolkata Knight Riders,Mumbai Indians,0.5245901639344263,0.5714285714285714,0.29411764705882354,0.2,0.6363636363636364,0.8,0.4,Mumbai Indians
+Rising Pune Supergiants,Gujarat Lions,0.3333333333333333,0.8333333333333334,0.0,0.0,0.5,0.2,0.8,Gujarat Lions
+Delhi Daredevils,Kolkata Knight Riders,0.41935483870967744,0.5203252032520326,0.375,0.3829787234042553,0.8,0.6,0.6,Delhi Daredevils
+Sunrisers Hyderabad,Royal Challengers Bangalore,0.5098039215686274,0.4921875,0.42857142857142855,0.6,0.3333333333333333,0.6,0.4,Sunrisers Hyderabad
+Kings XI Punjab,Gujarat Lions,0.47619047619047616,0.8571428571428571,0.0,0.5,0.6666666666666666,0.2,0.8,Kings XI Punjab
+Rising Pune Supergiants,Mumbai Indians,0.2857142857142857,0.5746268656716418,1.0,0.0,0.5,0.2,0.6,Mumbai Indians
+Royal Challengers Bangalore,Kolkata Knight Riders,0.4883720930232558,0.5161290322580645,0.5,0.5102040816326531,0.42857142857142855,0.2,0.6,Kolkata Knight Riders
+Gujarat Lions,Delhi Daredevils,0.75,0.424,1.0,0.5,0.5,0.6,0.8,Delhi Daredevils
+Kolkata Knight Riders,Kings XI Punjab,0.52,0.48031496062992124,0.6666666666666666,0.6521739130434783,0.2857142857142857,0.6,0.4,Kolkata Knight Riders
+Delhi Daredevils,Rising Pune Supergiants,0.42857142857142855,0.25,0.5,0.3958333333333333,0.5,0.8,0.2,Rising Pune Supergiants
+Gujarat Lions,Sunrisers Hyderabad,0.6666666666666666,0.5192307692307693,0.0,0.5,0.6190476190476191,0.6,0.8,Sunrisers Hyderabad
+Rising Pune Supergiants,Royal Challengers Bangalore,0.3333333333333333,0.4846153846153846,0.0,0.5,0.5,0.4,0.2,Royal Challengers Bangalore
+Kings XI Punjab,Delhi Daredevils,0.4765625,0.4251968503937008,0.5294117647058824,0.25,0.5,0.2,0.6,Kings XI Punjab
+Sunrisers Hyderabad,Mumbai Indians,0.5283018867924528,0.5777777777777777,0.42857142857142855,0.3333333333333333,1.0,0.8,0.8,Sunrisers Hyderabad
+Kolkata Knight Riders,Gujarat Lions,0.5238095238095238,0.6,0.5,0.6595744680851063,0.5,0.6,0.4,Gujarat Lions
+Royal Challengers Bangalore,Kings XI Punjab,0.48854961832061067,0.4806201550387597,0.375,0.5,0.4,0.4,0.4,Royal Challengers Bangalore
+Sunrisers Hyderabad,Rising Pune Supergiants,0.5370370370370371,0.3,0.0,0.5,0.5,0.8,0.4,Sunrisers Hyderabad
+Royal Challengers Bangalore,Mumbai Indians,0.49242424242424243,0.5735294117647058,0.4444444444444444,0.5098039215686274,0.7142857142857143,0.4,0.6,Mumbai Indians
+Sunrisers Hyderabad,Delhi Daredevils,0.5454545454545454,0.421875,0.8333333333333334,0.6363636363636364,0.75,0.8,0.4,Delhi Daredevils
+Mumbai Indians,Kings XI Punjab,0.5766423357664233,0.47692307692307695,0.5294117647058824,0.5,0.5,0.8,0.4,Kings XI Punjab
+Royal Challengers Bangalore,Gujarat Lions,0.48872180451127817,0.6363636363636364,0.0,0.5,0.5,0.4,0.4,Royal Challengers Bangalore
+Rising Pune Supergiants,Kolkata Knight Riders,0.2727272727272727,0.5196850393700787,0.0,0.5,0.6458333333333334,0.2,0.4,Kolkata Knight Riders
+Kings XI Punjab,Sunrisers Hyderabad,0.48091603053435117,0.5357142857142857,0.2857142857142857,0.3333333333333333,0.5,0.6,0.8,Sunrisers Hyderabad
+Mumbai Indians,Delhi Daredevils,0.572463768115942,0.4263565891472868,0.47058823529411764,0.3333333333333333,1.0,0.6,0.6,Mumbai Indians
+Kolkata Knight Riders,Royal Challengers Bangalore,0.5234375,0.4925373134328358,0.5294117647058824,0.6530612244897959,0.3333333333333333,0.6,0.6,Royal Challengers Bangalore
+Delhi Daredevils,Rising Pune Supergiants,0.4230769230769231,0.25,0.0,0.5,0.0,0.4,0.2,Rising Pune Supergiants
+Royal Challengers Bangalore,Kings XI Punjab,0.4962962962962963,0.4772727272727273,0.4117647058823529,0.5094339622641509,0.5,0.8,0.4,Royal Challengers Bangalore
+Kolkata Knight Riders,Gujarat Lions,0.5193798449612403,0.5833333333333334,0.0,0.5,0.5,0.6,0.2,Gujarat Lions
+Sunrisers Hyderabad,Delhi Daredevils,0.543859649122807,0.4198473282442748,0.7142857142857143,1.0,0.75,0.8,0.2,Delhi Daredevils
+Kings XI Punjab,Rising Pune Supergiants,0.47368421052631576,0.3076923076923077,1.0,1.0,0.5,0.4,0.4,Rising Pune Supergiants
+Mumbai Indians,Gujarat Lions,0.5755395683453237,0.6153846153846154,0.0,0.5,1.0,0.6,0.4,Gujarat Lions
+Kolkata Knight Riders,Sunrisers Hyderabad,0.5153846153846153,0.5344827586206896,0.7142857142857143,0.64,0.0,0.4,0.6,Kolkata Knight Riders
+Delhi Daredevils,Royal Challengers Bangalore,0.42424242424242425,0.5,0.375,0.8,0.5,0.4,0.8,Royal Challengers Bangalore
+Gujarat Lions,Royal Challengers Bangalore,0.6428571428571429,0.5036496350364964,0.5,0.0,0.5185185185185185,0.6,0.8,Royal Challengers Bangalore
+Sunrisers Hyderabad,Kolkata Knight Riders,0.5254237288135594,0.5190839694656488,0.25,0.6666666666666666,0.6666666666666666,0.4,0.4,Sunrisers Hyderabad
+Gujarat Lions,Sunrisers Hyderabad,0.6,0.5333333333333333,0.0,1.0,0.75,0.6,0.4,Sunrisers Hyderabad
+Sunrisers Hyderabad,Royal Challengers Bangalore,0.5409836065573771,0.5072463768115942,0.5,0.25,0.5272727272727272,0.6,1.0,Sunrisers Hyderabad
+Sunrisers Hyderabad,Royal Challengers Bangalore,0.5483870967741935,0.5035971223021583,0.5555555555555556,0.6086956521739131,0.2857142857142857,0.6,0.8,Sunrisers Hyderabad
+Mumbai Indians,Rising Pune Supergiant,0.5714285714285714,0.5,0.5,1.0,0.5,0.4,0.5,Rising Pune Supergiant
+Gujarat Lions,Kolkata Knight Riders,0.5625,0.5151515151515151,1.0,0.4,0.5,0.4,0.4,Kolkata Knight Riders
+Rising Pune Supergiant,Kings XI Punjab,1.0,0.4701492537313433,0.5,0.5,1.0,1.0,0.2,Kings XI Punjab
+Royal Challengers Bangalore,Delhi Daredevils,0.5,0.42105263157894735,0.5882352941176471,0.5178571428571429,0.42857142857142855,0.6,0.4,Royal Challengers Bangalore
+Gujarat Lions,Sunrisers Hyderabad,0.5294117647058824,0.5555555555555556,0.0,0.0,0.625,0.4,0.8,Sunrisers Hyderabad
+Kolkata Knight Riders,Mumbai Indians,0.518796992481203,0.5673758865248227,0.2777777777777778,0.16666666666666666,0.6444444444444445,0.4,0.4,Mumbai Indians
+Royal Challengers Bangalore,Kings XI Punjab,0.5035460992907801,0.4740740740740741,0.4444444444444444,0.5,1.0,0.6,0.4,Kings XI Punjab
+Delhi Daredevils,Rising Pune Supergiant,0.417910447761194,0.5,0.5,1.0,1.0,0.2,0.5,Delhi Daredevils
+Sunrisers Hyderabad,Mumbai Indians,0.5625,0.5704225352112676,0.5,0.0,0.6521739130434783,1.0,0.4,Mumbai Indians
+Kings XI Punjab,Kolkata Knight Riders,0.47794117647058826,0.5149253731343284,0.3157894736842105,0.25,0.6470588235294118,0.4,0.4,Kolkata Knight Riders
+Royal Challengers Bangalore,Mumbai Indians,0.5,0.5734265734265734,0.42105263157894735,0.5263157894736842,0.75,0.4,0.6,Mumbai Indians
+Rising Pune Supergiant,Gujarat Lions,0.3333333333333333,0.5,0.5,0.5,0.3333333333333333,0.3333333333333333,0.2,Gujarat Lions
+Kolkata Knight Riders,Sunrisers Hyderabad,0.5185185185185185,0.5538461538461539,0.6666666666666666,0.6538461538461539,0.0,0.6,0.8,Kolkata Knight Riders
+Delhi Daredevils,Kings XI Punjab,0.4222222222222222,0.4744525547445255,0.4444444444444444,0.3877551020408163,0.5,0.4,0.4,Delhi Daredevils
+Gujarat Lions,Mumbai Indians,0.5263157894736842,0.5763888888888888,1.0,1.0,0.6595744680851063,0.2,0.6,Mumbai Indians
+Rising Pune Supergiant,Royal Challengers Bangalore,0.25,0.4965034965034965,0.5,0.5,0.5172413793103449,0.25,0.2,Rising Pune Supergiant
+Delhi Daredevils,Kolkata Knight Riders,0.4264705882352941,0.5220588235294118,0.4117647058823529,0.4,0.5714285714285714,0.6,0.6,Kolkata Knight Riders
+Sunrisers Hyderabad,Kings XI Punjab,0.5454545454545454,0.47101449275362317,0.75,0.64,0.5714285714285714,0.6,0.4,Sunrisers Hyderabad
+Royal Challengers Bangalore,Gujarat Lions,0.4930555555555556,0.5,0.6666666666666666,0.0,0.42857142857142855,0.2,0.2,Royal Challengers Bangalore
+Sunrisers Hyderabad,Delhi Daredevils,0.5522388059701493,0.4233576642335766,0.625,0.6538461538461539,0.8,0.6,0.4,Sunrisers Hyderabad
+Kings XI Punjab,Mumbai Indians,0.4676258992805755,0.5793103448275863,0.5,1.0,0.5,0.4,0.8,Mumbai Indians
+Kolkata Knight Riders,Gujarat Lions,0.5255474452554745,0.47619047619047616,0.3333333333333333,0.660377358490566,1.0,0.8,0.2,Gujarat Lions
+Mumbai Indians,Delhi Daredevils,0.5821917808219178,0.42028985507246375,0.5,0.6666666666666666,0.16666666666666666,1.0,0.4,Mumbai Indians
+Sunrisers Hyderabad,Rising Pune Supergiant,0.5588235294117647,0.4,0.5,0.5,0.5,0.6,0.4,Rising Pune Supergiant
+Kings XI Punjab,Gujarat Lions,0.4642857142857143,0.5,0.5,1.0,0.375,0.2,0.4,Kings XI Punjab
+Kolkata Knight Riders,Royal Challengers Bangalore,0.5217391304347826,0.496551724137931,0.5,0.6481481481481481,0.42857142857142855,0.6,0.4,Kolkata Knight Riders
+Rising Pune Supergiant,Mumbai Indians,0.5,0.5850340136054422,1.0,0.5,0.673469387755102,0.4,1.0,Rising Pune Supergiant
+Rising Pune Supergiant,Kolkata Knight Riders,0.5714285714285714,0.5251798561151079,0.5,0.6666666666666666,1.0,0.6,0.8,Kolkata Knight Riders
+Royal Challengers Bangalore,Gujarat Lions,0.4931506849315068,0.4782608695652174,0.75,0.5084745762711864,0.0,0.2,0.4,Gujarat Lions
+Delhi Daredevils,Kolkata Knight Riders,0.4172661870503597,0.5285714285714286,0.3888888888888889,0.16666666666666666,0.6545454545454545,0.4,0.8,Kolkata Knight Riders
+Sunrisers Hyderabad,Kings XI Punjab,0.5507246376811594,0.46808510638297873,0.7777777777777778,1.0,0.2857142857142857,0.4,0.2,Sunrisers Hyderabad
+Rising Pune Supergiant,Royal Challengers Bangalore,0.5,0.4897959183673469,1.0,0.5,1.0,0.6,0.2,Rising Pune Supergiant
+Gujarat Lions,Mumbai Indians,0.5,0.581081081081081,0.6666666666666666,0.3333333333333333,0.5,0.4,0.8,Mumbai Indians
+Delhi Daredevils,Kings XI Punjab,0.4142857142857143,0.4647887323943662,0.47368421052631576,0.0,0.25,0.2,0.2,Kings XI Punjab
+Sunrisers Hyderabad,Kolkata Knight Riders,0.5571428571428572,0.5319148936170213,0.3,0.6666666666666666,0.8,0.6,0.8,Sunrisers Hyderabad
+Royal Challengers Bangalore,Mumbai Indians,0.4864864864864865,0.5838926174496645,0.4,0.42857142857142855,0.66,0.2,0.8,Mumbai Indians
+Gujarat Lions,Rising Pune Supergiant,0.48,0.5555555555555556,1.0,1.0,0.6,0.4,0.8,Rising Pune Supergiant
+Sunrisers Hyderabad,Delhi Daredevils,0.5633802816901409,0.41134751773049644,0.6666666666666666,0.8,0.39215686274509803,0.8,0.0,Delhi Daredevils
+Kolkata Knight Riders,Rising Pune Supergiant,0.528169014084507,0.6,1.0,0.6607142857142857,0.5,0.6,0.8,Rising Pune Supergiant
+Gujarat Lions,Delhi Daredevils,0.46153846153846156,0.4154929577464789,0.5,0.5,0.40384615384615385,0.4,0.2,Delhi Daredevils
+Kings XI Punjab,Royal Challengers Bangalore,0.46853146853146854,0.48322147651006714,0.5789473684210527,0.4444444444444444,0.5,0.4,0.2,Kings XI Punjab
+Rising Pune Supergiant,Sunrisers Hyderabad,0.6363636363636364,0.5555555555555556,1.0,0.5,0.6785714285714286,0.8,0.6,Rising Pune Supergiant
+Mumbai Indians,Delhi Daredevils,0.5866666666666667,0.4195804195804196,0.5263157894736842,0.25,0.41509433962264153,0.8,0.4,Mumbai Indians
+Royal Challengers Bangalore,Kolkata Knight Riders,0.48,0.5244755244755245,0.47368421052631576,0.4918032786885246,0.5,0.0,0.6,Kolkata Knight Riders
+Kings XI Punjab,Gujarat Lions,0.4722222222222222,0.4444444444444444,0.6666666666666666,0.3333333333333333,1.0,0.6,0.2,Gujarat Lions
+Mumbai Indians,Sunrisers Hyderabad,0.5894039735099338,0.547945205479452,0.5555555555555556,0.6666666666666666,0.6551724137931034,0.8,0.4,Sunrisers Hyderabad
+Kings XI Punjab,Kolkata Knight Riders,0.4689655172413793,0.5277777777777778,0.3,0.3,1.0,0.6,0.6,Kings XI Punjab
+Gujarat Lions,Delhi Daredevils,0.4642857142857143,0.4166666666666667,0.3333333333333333,1.0,0.5,0.4,0.4,Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,0.4726027397260274,0.5855263157894737,0.47368421052631576,0.5,0.6666666666666666,0.6,0.6,Kings XI Punjab
+Delhi Daredevils,Rising Pune Supergiant,0.4206896551724138,0.6666666666666666,1.0,0.4074074074074074,0.5,0.6,0.8,Delhi Daredevils
+Gujarat Lions,Sunrisers Hyderabad,0.4482758620689655,0.5540540540540541,0.0,0.6666666666666666,0.5,0.2,0.6,Sunrisers Hyderabad
+Mumbai Indians,Kolkata Knight Riders,0.5816993464052288,0.5241379310344828,0.7368421052631579,0.8,0.6491228070175439,0.6,0.4,Mumbai Indians
+Kings XI Punjab,Rising Pune Supergiant,0.47619047619047616,0.6153846153846154,1.0,0.0,0.6666666666666666,0.8,0.8,Rising Pune Supergiant
+Royal Challengers Bangalore,Delhi Daredevils,0.4768211920529801,0.4246575342465753,0.6111111111111112,0.6666666666666666,0.41818181818181815,0.0,0.8,Royal Challengers Bangalore
+Rising Pune Supergiant,Mumbai Indians,0.6428571428571429,0.5844155844155844,1.0,1.0,0.6538461538461539,0.8,0.6,Rising Pune Supergiant
+Sunrisers Hyderabad,Kolkata Knight Riders,0.56,0.5205479452054794,0.36363636363636365,0.4,0.5555555555555556,0.6,0.2,Kolkata Knight Riders
+Kolkata Knight Riders,Mumbai Indians,0.5238095238095238,0.5806451612903226,0.25,0.6,0.7777777777777778,0.4,0.4,Mumbai Indians
+Mumbai Indians,Rising Pune Supergiant,0.5833333333333334,0.6666666666666666,0.0,0.5714285714285714,1.0,0.4,0.8,Mumbai Indians
