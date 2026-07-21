@@ -8,14 +8,17 @@
 # ============================================================
 
 import pandas as pd
-
+from pathlib import Path
 
 # ============================================================
 # 2. Load Clean Dataset
 # ============================================================
 
 # Read the cleaned dataset
-matches = pd.read_csv("../data/cleaned_data.csv")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+
+matches = pd.read_csv(DATA_DIR / "cleaned_data.csv")
 
 # Convert date column into datetime format
 matches["date"] = pd.to_datetime(matches["date"])
@@ -326,12 +329,13 @@ print(feature_dataset.columns.tolist())
 print("\nMissing Values:")
 print(feature_dataset.isnull().sum())
 
-
+# Remove matches with no winner
+feature_dataset = feature_dataset.dropna(subset=["winner"]).reset_index(drop=True)
 # ============================================================
 # 12. Save Engineered Dataset
 # ============================================================
 
-output_path = "../data/matches_features.csv"
+output_path = DATA_DIR / "matches_features.csv"
 
 feature_dataset.to_csv(
     output_path,
